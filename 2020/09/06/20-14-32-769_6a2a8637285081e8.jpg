@@ -1,0 +1,4903 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="gbk">
+<title>论文投稿 - 学术交流区 -  小木虫论坛-学术科研互动平台</title>
+<meta name="keywords" content="论文投稿,论文润色,学术交流区,小木虫论坛">
+<meta name="description" content="小木虫论坛-论文投稿专栏：拥有来自国内外各大院校、科研院所的博硕士研究生、企业研发人员，聚集了众多科研工作者关于论文投稿、论文写作方面的专业经验。小木虫论坛秉承“为中国学术科研免费提供动力”宗旨，已成为千万硕博科研人员喜爱的学术科研平台！">
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+<link rel="shortcut icon" href="http://muchongimg.xmcimg.com/data/emuch_bbs_images/favicon.ico" type="image/x-icon" />
+<link rel="dns-prefetch" href="i.muchong.com"/>
+<link rel="dns-prefetch" href="muchongavatar.xmcimg.com"/>
+<link rel="dns-prefetch" href="muchongimg.xmcimg.com"/>
+<link rel="dns-prefetch" href="image-ali.keyan.cc"/>
+<link rel="dns-prefetch" href="yuyin.xmcimg.com"/>
+<link rel="dns-prefetch" href="yuyincdn.xmcimg.com"/>
+
+<script type="text/javascript" src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/js/qing/js/jquery.js"></script>
+<script type="text/javascript">jQuery.noConflict();  var XMC_GKEY="/小木虫/[大区]学术交流区/[板块]论文投稿"; var clickok_hash='aceee74e4e140296ca3e3a4190372efd', cookiepre='', cookiedomain='.muchong.com', cookiepath='/',site_url="http://muchong.com/bbs/";</script>
+<script type="text/javascript" src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/js/qing/js/jquery.select.js?15373250"></script>
+<link type="text/css" href="http://muchongimg.xmcimg.com/data/emuch_bbs_images/css/qing/css/global.css?1537325052" rel="stylesheet">
+<!--[if IE]>
+<script type="text/javascript" src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/js/qing/js/html5shiv.min.js?15373250"></script>
+<![endif]-->
+<script language="javascript" src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/js/script_ajax.js?15373250"></script>
+<script language="javascript" src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/js/common.js?153732503"></script>
+<script src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/js/qing/js/qing.js?15373250"></script>
+<script src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/js/global.js?15373250"></script>
+<script type="text/javascript" src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/js/layer/layer.js?15373250"></script>
+<base href="http://muchong.com/bbs/"/>
+</head>
+<body>
+<div id="append_parent"></div>
+<div id="ajaxwaitid"></div>
+<div id="show_forum_f" style="display:none;"></div>
+<div class="bg">
+<div class="top_Nav_Box solid">
+    <div class="wrapper_head solid">
+        <div class="xmc_fl">
+            <ul >
+            <div class="xmc_fl">
+         <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/portal/image/portal/logo.png?20163" style="display: none;">
+                <li class="index" style="cursor: pointer"><a href="/bbs/" class="logo" style="background: transparent;"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/logo_new.png"></a></li>
+                <li class="tar_Down_Nav top_Down_Nav" style="margin-left: 10px;">
+                    <dl class="" id="default_bg">
+                        <dt class="xmc_nav">版块导航<em></em></dt>
+                        <dd id="loadingnav" >
+                            <p class="xmc_lm20">正在加载中...</p>
+                        </dd>
+                    </dl>
+                </li>
+
+                                <li><a href="http://m.muchong.com/?f=bbs&w=nav" target="_blank">客户端APP下载</a></li>
+            <li><a href="http://hao.muchong.com/?f=muchong" style="" target="_blank">木虫导航</a> </li>
+                
+
+            </ul>
+        </div>
+
+        <div class="xmc_fr top_Login" >
+    <a href="/bbs/logging.php?action=login&t=1599423272">登录</a>
+    <a href="register.php" >注册</a>
+    </div>
+    
+    <div class="xmc_fr xmc_Search2">
+    <form class="xmc_fl" action="http://muchong.com/bbs/qing_search.php" >
+    <div class="xmc_fl">
+    <input name="search_type" type="hidden" value="thread" id="inputselect"/>
+    <input class="xmc_Search_Txt xmc_c9" type="text"  name="wd" value="" placeholder="请输入用户名/关键字">
+    </div>
+    <div class="xmc_fl">
+    <div id="divselect" class="divselect">
+    <cite>帖子</cite>
+    <ul class="select_x solid">
+    <li ><a href="javascript:;" selectid="thread">帖子</a></li>
+    <li ><a href="javascript:;" selectid="user">用户</a></li>
+        <li ><a href="javascript:;" selectid="125">本版</a></li>
+        </ul>
+    </div>
+    </div>
+    <div class="xmc_fl">
+    <input class="xmc_Search_Btn" type="submit" value="搜索">
+    </div>
+
+    </form>
+    </div>
+
+    </div>
+</div>
+
+
+<div style="height: 50px;"></div>
+
+
+<!-- 请置于所有广告位代码之前 -->
+<script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+
+<style>
+.dropdown h4{height:23px; font:12px/23px Arial, Helvetica, sans-serif;border:solid 1px #AAA;background:url(js/qing/js/droparrow.gif) no-repeat right center;}
+</style>
+<div class="wrapper header_table">
+<table cellspacing="0" cellpadding="0" align="left" border="0" >
+<tr>
+<td align="right"><a href="http://muchong.com/bbs/a1751.html" class="" target="_blank" style='display: inherit!important;'><img src="http://muchongimg.xmcimg.com/data/bcs/2016/0905/1_1473064859_424.gif" align="absmiddle" width="300" height="60"></a></td>
+<td align="right"></td>
+<td align="right"><a href="http://muchong.com/bbs/a2449.html" class="" target="_blank" style='display: inherit!important;'><img src="http://muchongimg.xmcimg.com/oss2/img/2019/0402/1_1554174594_285.jpg" align="absmiddle"></a></td>
+<td align="right"><a href="http://muchong.com/bbs/a2451.html" class="" target="_blank" style='display: inherit!important;'><img src="http://muchongimg.xmcimg.com/oss2/img/2020/0622/4273051_1592789976_119.gif" align="absmiddle"></a></td>
+
+</tr>
+</table>
+</div>
+<div class="hr_10"></div>
+
+<div class="wrapper" style=" background: #fff;border: 1px solid #9FC9EB;">
+<div class="index_rank">
+<h2 class="xmc_title xmc_blue"><table width="100%">
+<tr>
+<td><strong class="xmc_ft14 ">
+24小时热门版块排行榜&nbsp;&nbsp;&nbsp;&nbsp;
+</strong>
+</td>
+<td style="text-align: right;">
+<a href="http://muchong.com/bbs/a2468.html" class="" target="_blank" style='display: inherit!important;'><span style="padding-left:10px;font-weight:bold;color:#FF0000;font-size: 14px !important">意得辑论文润色满3千送无线充电宝</span></a><a href="http://muchong.com/bbs/a2489.html" class="" target="_blank" style='display: inherit!important;'><span style="padding-left:10px;font-weight:bold;color:#080808;font-size: 14px !important">    论文翻译    </span></a></td>
+</tr>
+</table></h2>
+<ul class="solid" style="padding: 5px 0 5px 10px;">
+<li><span class="icon_rank">&gt;</span><a  class="xmc_blue" href="http://muchong.com/f-437-1" target="_blank">论坛更新日志</a><span class="xmc_c9"> (14178)</span></li>
+<li><span class="icon_rank">&gt;</span><a  class="xmc_blue" href="http://muchong.com/f-133-1" target="_blank">虫友互识</a><span class="xmc_c9"> (168)</span></li>
+<li><span class="icon_rank">&gt;</span><a  class="xmc_blue" href="http://muchong.com/f-6-1" target="_blank"><font color=green>休闲灌水</font></a><span class="xmc_c9"> (165)</span></li>
+<li><span class="icon_rank">&gt;</span><a  class="xmc_blue" href="http://muchong.com/f-307-1" target="_blank"><font color=red>论文道贺祈福</font></a><span class="xmc_c9"> (122)</span></li>
+<li><span class="icon_rank">&gt;</span><a  class="xmc_blue" href="http://muchong.com/f-198-1" target="_blank"><font color=red>硕博家园</font></a><span class="xmc_c9"> (89)</span></li>
+<li><span class="icon_rank">&gt;</span><a  class="xmc_blue" href="http://muchong.com/f-346-1" target="_blank"><font color=green>招聘信息布告栏</font></a><span class="xmc_c9"> (58)</span></li>
+<li><span class="icon_rank">&gt;</span><a  class="xmc_blue" href="http://muchong.com/f-197-1" target="_blank">考博</a><span class="xmc_c9"> (55)</span></li>
+<li><span class="icon_rank">&gt;</span><a  class="xmc_blue" href="http://muchong.com/f-125-1" target="_blank"><font color=red>论文投稿</font></a><span class="xmc_c9"> (44)</span></li>
+<li><span class="icon_rank">&gt;</span><a  class="xmc_blue" href="http://muchong.com/f-342-1" target="_blank">博后之家</a><span class="xmc_c9"> (28)</span></li>
+<li><span class="icon_rank">&gt;</span><a  class="xmc_blue" href="http://muchong.com/f-234-1" target="_blank"><font color=green>基金申请</font></a><span class="xmc_c9"> (28)</span></li>
+<li><span class="icon_rank">&gt;</span><a  class="xmc_blue" href="http://muchong.com/f-236-1" target="_blank"><font color=red>高分子</font></a><span class="xmc_c9"> (24)</span></li>
+<li><span class="icon_rank">&gt;</span><a  class="xmc_blue" href="http://muchong.com/f-158-1" target="_blank"><font color=red>文献求助</font></a><span class="xmc_c9"> (10)</span></li>
+<li><span class="icon_rank">&gt;</span><a  class="xmc_blue" href="http://muchong.com/f-127-1" target="_blank">考研</a><span class="xmc_c9"> (7)</span></li>
+<li><span class="icon_rank">&gt;</span><a  class="xmc_blue" href="http://muchong.com/f-430-1" target="_blank">导师招生</a><span class="xmc_c9"> (7)</span></li>
+<li><span class="icon_rank">&gt;</span><a  class="xmc_blue" href="http://muchong.com/f-416-1" target="_blank"><font color=red>版块工场</font></a><span class="xmc_c9"> (6)</span></li>
+<li><span class="icon_rank">&gt;</span><a  class="xmc_blue" href="http://muchong.com/f-408-1" target="_blank">有奖起名</a><span class="xmc_c9"> (6)</span></li>
+</ul>
+</div>
+</div>
+<div class="hr_10"></div>
+
+<div class="wrapper header_table">
+<table cellspacing="0" cellpadding="0" align="center" border="0">
+<tr align="center">
+<td colspan="3">
+</td>
+<td><a href="http://muchong.com/bbs/a2497.html" class="" target="_blank" style='display: inherit!important;'><img src="http://muchongimg.xmcimg.com/oss2/img/2020/0827/4273051_1598499002_685.gif" align="absmiddle" width="245" height="90"></a></td>
+<td><a href="http://muchong.com/bbs/a1953.html" class="" target="_blank" style='display: inherit!important;'><img src="http://muchongimg.xmcimg.com/oss2/img/2019/1101/1_1572581076_658.gif" align="absmiddle" width="233" height="90"></a></td>
+</tr>
+<tr>
+<td align="left" width="253"><a href="http://muchong.com/bbs/a2472.html" class="" target="_blank" style='display: inherit!important;'><img src="http://muchongimg.xmcimg.com/oss2/img/2019/1119/1_1574152091_461.gif" align="absmiddle"></a></td>
+<td align="center" width="253"><a href="http://muchong.com/bbs/a217.html" class="" target="_blank" style='display: inherit!important;'><img align="absmiddle" src=http://muchongimg.xmcimg.com//data/bcs/2014/0114/1_1389672826_882.gif></a></td>
+<td align="right" width="254"><a href="http://muchong.com/bbs/a2458.html" class="" target="_blank" style='display: inherit!important;'><img align="absmiddle" src="http://muchongimg.xmcimg.com/oss2/img/2019/0416/1_1555393117_141.gif"></a></td>
+<td width="232"><a href="http://muchong.com/bbs/a2505.html" class="" target="_blank" style='display: inherit!important;'><img src="http://muchongimg.xmcimg.com/oss2/img/2020/0903/w304h4273051_1599121293_563.jpg" align="absmiddle" ></a></td>
+<td width="233"><a href="http://muchong.com/bbs/a429.html" class="" target="_blank" style='display: inherit!important;'><img src="http://muchongimg.xmcimg.com/oss2/img/2020/0715/4273051_1594799908_306.gif" align="absmiddle" width="223" height="80"></a></td>
+</tr>
+</table>
+</div>
+<div class="hr_10"></div>
+
+
+<div class="wrapper">
+<div class="xmc_msearch">
+<div class="xmc_search_text">
+<span class="xmc_fr">
+<a class="xmc_blue" href="misc.php?action=modreg&fid=125&op=add" target="_blank">申请当版主</a>
+<span class="xmc_cc xmc_line">|</span>
+<a href="http://muchong.com/f-125-1-view-archive" target="_blank">存档区</a>
+<span class="xmc_cc xmc_line">|</span><a href="helpnum.php?fid=125">应助排行</a><span class="xmc_cc xmc_line">|</span><a href="epi.php?fid=125">SEPI排行</a></span>
+<span class="breadcrumb"><a href="index.php">小木虫论坛-学术科研互动平台</a> &raquo; <a href="index.php?gid=308">学术交流区</a> &raquo; <a href="http://muchong.com/f-125-1">论文投稿</a> <a href="misc.php?action=myread&id=125&idtype=fid" class="sub_Btn xmc_lm5">订阅</a> </span>
+
+</div>
+</div>
+<div class="hr_10"></div>
+
+
+</div>
+<div class="wrapper">
+<h2 class="xmc_title xmc_blue xmc_line_top xmc_line_lr"><strong class="xmc_ft14">管理团队</strong> (金币库 <a href="forumcredit.php?fid=125" target="_blank" class="xmc_blue">1139360</a>  <a class="xmc_org" href="forumcredit.php?fid=125" target="_blank">充值</a> ) </h2>
+<div class="solid forum_info xmc_line_lrb">
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<div class="xmc_fl forum_Team">
+<dl>
+<dt>主管区长：</dt>
+<dd>
+<a class="xmc_rm10" href="viewpro.php?uid=622095" target="_blank">天天向上3035</a><a class="xmc_rm10" href="viewpro.php?uid=539655" target="_blank">book2005593</a></dd>
+</dl>
+<dl>
+<dt>主管版主：</dt>
+<dd>
+<a class="xmc_rm10" href="viewpro.php?uid=734127" target="_blank">秋天白云</a><a class="xmc_rm10" href="viewpro.php?uid=2004083" target="_blank">自私的猫1988</a><a class="xmc_rm10" href="viewpro.php?uid=2048939" target="_blank">liouzhan654</a><a class="xmc_rm10" href="viewpro.php?uid=359632" target="_blank">zhenghaiw</a><a class="xmc_rm10" href="viewpro.php?uid=971012" target="_blank">paperhunter</a><a class="xmc_rm10" href="viewpro.php?uid=485011" target="_blank">yanhualover</a><a class="xmc_rm10" href="viewpro.php?uid=1188734" target="_blank">sesame_oil</a><a class="xmc_rm10" href="viewpro.php?uid=91609" target="_blank">lotuscsx</a><a class="xmc_rm10" href="viewpro.php?uid=850954" target="_blank">avast2009</a><a class="xmc_rm10" href="viewpro.php?uid=1495190" target="_blank">zhlnwpu</a><a class="xmc_rm10" href="viewpro.php?uid=1017687" target="_blank">猪会飞</a><a class="xmc_rm10" href="viewpro.php?uid=2738740" target="_blank">carefu</a></dd>
+</dl>
+</div>
+</td>
+<td>
+<div class="xmc_fr forum_duty"><strong class="xmc_blue">33%</strong><span>最高出勤率</span>
+</td>
+</tr>
+</table>
+</div>
+<div class="hr_10"></div>
+<h2 class="xmc_title xmc_blue xmc_line_top xmc_line_lr"><strong class="xmc_ft14">杰出贡献者</strong>  </h2>
+<div class="solid forum_info xmc_line_lrb">
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<div class="xmc_fl forum_Team">
+<dl>
+<dt>专家顾问：</dt>
+<dd>
+<a class="xmc_blue xmc_fb xmc_rm10" href="viewpro.php?uid=827383" target="_blank" title="当前在线"><span class="admin_icon"></span>nono2009</a><a class="xmc_rm10" href="viewpro.php?uid=654606" target="_blank">wulishi8</a><a class="xmc_rm10" href="viewpro.php?uid=1318869" target="_blank">Monash2011</a><a class="xmc_rm10" href="viewpro.php?uid=1024508" target="_blank">ZBBcrazy</a></dd>
+</dl>
+<dl>
+<dt>荣誉版主：</dt>
+<dd>
+<a class="xmc_rm10" href="viewpro.php?uid=187070" target="_blank">chenguangyaoya</a><a class="xmc_rm10" href="viewpro.php?uid=108032" target="_blank">bingyulin3</a><a class="xmc_rm10" href="viewpro.php?uid=332152" target="_blank">nxssw</a><a class="xmc_rm10" href="viewpro.php?uid=97742" target="_blank">jackiemwd</a><a class="xmc_rm10" href="viewpro.php?uid=440157" target="_blank">dmfang</a><a class="xmc_rm10" href="viewpro.php?uid=801190" target="_blank">木子小木虫</a><a class="xmc_rm10" href="viewpro.php?uid=68832" target="_blank">melody</a><a class="xmc_rm10" href="viewpro.php?uid=543637" target="_blank">zhuimengren639</a><a class="xmc_rm10" href="viewpro.php?uid=349039" target="_blank">lby1258</a><a class="xmc_rm10" href="viewpro.php?uid=109989" target="_blank">zero623</a><a class="xmc_rm10" href="viewpro.php?uid=677866" target="_blank">wg423</a><a class="xmc_rm10" href="viewpro.php?uid=443273" target="_blank">qingshaojun0823</a><a class="xmc_rm10" href="viewpro.php?uid=536545" target="_blank">cxksama</a></dd>
+</dl>
+<dl>
+<dt>荣誉成员：</dt>
+<dd>
+<a class="xmc_rm10" href="viewpro.php?uid=315911" target="_blank">SHY31</a><a class="xmc_rm10" href="viewpro.php?uid=530484" target="_blank">mandolin</a><a class="xmc_rm10" href="viewpro.php?uid=972355" target="_blank">邂逅の浪漫</a><a class="xmc_rm10" href="viewpro.php?uid=161721" target="_blank">努力着</a><a class="xmc_rm10" href="viewpro.php?uid=461515" target="_blank">sunke</a><a class="xmc_rm10" href="viewpro.php?uid=43541" target="_blank">lwiaanngg</a><a class="xmc_rm10" href="viewpro.php?uid=514807" target="_blank">sally208</a><a class="xmc_rm10" href="viewpro.php?uid=1080748" target="_blank">hls85915</a><a class="xmc_rm10" href="viewpro.php?uid=782124" target="_blank">tyhjqxbz</a><a class="xmc_rm10" href="viewpro.php?uid=1168320" target="_blank">nsp27</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div class="hr_10"></div>
+
+
+<div class="wrapper">
+
+
+</div>
+
+
+
+<div class="wrapper">
+<div class="user_Rank bg_global  bg_global_padding">
+<h2 class="xmc_title xmc_blue"><strong class="xmc_ft14">SEPI 牛人榜</strong>
+<a class="xmc_rm10 xmc_lm10 xmc_blue" href="epi.php?fid=125">总排行</a>
+<a class="xmc_rm10 xmc_blue" href="epi.php?fid=125&day=7">7日排行</a>
+<a class="xmc_rm10 xmc_blue" href="epi.php?fid=125&day=30">30日排行</a>
+<a class="xmc_rm10 xmc_blue" href="epi.php?fid=125&day=90">90日排行</a>
+</h2>
+<ul class="solid">
+
+<li> <span ><a href="space.php?view=epi&uid=441856&fid=125"  title="专家指数: 18" target="_blank">seapass</a></span><em>+18</em></li>
+<li> <span ><a href="space.php?view=epi&uid=1945379&fid=125"  title="专家指数: 10" target="_blank">rockinuk</a></span><em>+10</em></li>
+<li> <span class="xmc_blod"><em class="icon_admin"></em><a href="space.php?view=epi&uid=827383&fid=125"   class="xmc_blod" title="专家指数: 10" target="_blank">nono2009</a></span><em>+10</em></li>
+<li> <span ><a href="space.php?view=epi&uid=1178088&fid=125"  title="专家指数: 8" target="_blank">zhxzhx678</a></span><em>+8</em></li>
+<li> <span ><a href="space.php?view=epi&uid=1264338&fid=125"  title="专家指数: 7" target="_blank">leimiao_hit</a></span><em>+7</em></li>
+<li> <span ><a href="space.php?view=epi&uid=654606&fid=125"  title="专家指数: 5" target="_blank">wulishi8</a></span><em>+5</em></li>
+<li> <span ><a href="space.php?view=epi&uid=498546&fid=125"  title="专家指数: 5" target="_blank">wellyy2005</a></span><em>+5</em></li>
+<li> <span ><a href="space.php?view=epi&uid=1361004&fid=125"  title="专家指数: 5" target="_blank">epirsgis</a></span><em>+5</em></li>
+<li> <span ><a href="space.php?view=epi&uid=1148332&fid=125"  title="专家指数: 5" target="_blank">titanhwei</a></span><em>+5</em></li>
+<li> <span ><a href="space.php?view=epi&uid=448020&fid=125"  title="专家指数: 5" target="_blank">dawnlight</a></span><em>+5</em></li>
+<li> <span ><a href="space.php?view=epi&uid=706214&fid=125"  title="专家指数: 5" target="_blank">chuzhufei</a></span><em>+5</em></li>
+<li> <span ><a href="space.php?view=epi&uid=642911&fid=125"  title="专家指数: 4" target="_blank">xuyulai</a></span><em>+4</em></li>
+<li> <span ><a href="space.php?view=epi&uid=472328&fid=125"  title="专家指数: 4" target="_blank">xu_hai</a></span><em>+4</em></li>
+<li> <span ><a href="space.php?view=epi&uid=93958&fid=125"  title="专家指数: 3" target="_blank">luckydogzhang</a></span><em>+3</em></li>
+<li> <span ><a href="space.php?view=epi&uid=850954&fid=125"  title="专家指数: 3" target="_blank">avast2009</a></span><em>+3</em></li>
+<li> <span ><a href="space.php?view=epi&uid=1063837&fid=125"  title="专家指数: 3" target="_blank">detagnacht</a></span><em>+3</em></li>
+<li> <span ><a href="space.php?view=epi&uid=448178&fid=125"  title="专家指数: 3" target="_blank">ruifenghaha</a></span><em>+3</em></li>
+<li> <span ><a href="space.php?view=epi&uid=1187286&fid=125"  title="专家指数: 3" target="_blank">blueice1126</a></span><em>+3</em></li>
+<li> <span ><a href="space.php?view=epi&uid=3119535&fid=125"  title="专家指数: 2" target="_blank">hongming001</a></span><em>+2</em></li>
+<li> <span ><a href="space.php?view=epi&uid=2902188&fid=125"  title="专家指数: 2" target="_blank">Bluekingdom</a></span><em>+2</em></li>
+<li> <span ><a href="space.php?view=epi&uid=2219921&fid=125"  title="专家指数: 2" target="_blank">夜未央小飞侠</a></span><em>+2</em></li>
+<li> <span ><a href="space.php?view=epi&uid=1455153&fid=125"  title="专家指数: 2" target="_blank">天鑫隆</a></span><em>+2</em></li>
+<li> <span ><a href="space.php?view=epi&uid=2052840&fid=125"  title="专家指数: 2" target="_blank">农经学人</a></span><em>+2</em></li>
+<li> <span ><a href="space.php?view=epi&uid=1410396&fid=125"  title="专家指数: 2" target="_blank">ll9999</a></span><em>+2</em></li>
+</ul>
+</div>
+<div class="forum_explan bg_global  bg_global_padding">
+<h2 class="xmc_title xmc_blue"><strong class="xmc_ft14">版块说明</strong></h2>
+<dl class="solid">
+<li><font color="red"><font>论文投稿版发贴范围：发表与杂志投稿、论文撰写相关的知识、经验以及这些方面的问题咨询</font></font><br />
+<font color="blue"><font>论文投稿版坚决反对一稿多投学术不端，发表类似不负责言论的一律禁止登陆版面！ </font></font></li>
+</dl>
+</div>
+<div class="solid">
+<div class="forum_Post_w bg_global xmc_fl  bg_global_padding">
+<h2 class="xmc_title xmc_blue"><strong class="xmc_ft14"><a href="journal.php" target="_blank" class="xmc_blue">最新点评的SCI期刊，欢迎牛人参与点评</a></strong></h2>
+<ul class="solid">
+<li><em>&gt;</em><a href="journal.php?view=detail&jid=2066" target="_blank">CONTROL ENGINEERING AND APPLIED INFORMATICS</a> <font color="gray"> 8 人点评</font></li>
+<li><em>&gt;</em><a href="journal.php?view=detail&jid=5733" target="_blank">MATERIALS TODAY</a> <font color="gray"> 20 人点评</font></li>
+<li><em>&gt;</em><a href="journal.php?view=detail&jid=537" target="_blank">ANGEWANDTE CHEMIE-INTERNATIONAL EDITION</a> <font color="gray"> 149 人点评</font></li>
+<li><em>&gt;</em><a href="journal.php?view=detail&jid=112" target="_blank">ACTA MATERIALIA</a> <font color="gray"> 97 人点评</font></li>
+<li><em>&gt;</em><a href="journal.php?view=detail&jid=6426" target="_blank">OPTIK</a> <font color="gray"> 280 人点评</font></li>
+<li><em>&gt;</em><a href="journal.php?view=detail&jid=3333" target="_blank">IEEE COMMUNICATIONS LETTERS</a> <font color="gray"> 84 人点评</font></li>
+<li><em>&gt;</em><a href="journal.php?view=detail&jid=5133" target="_blank">JOURNAL OF RADIOANALYTICAL AND NUCLEAR CHEMISTRY</a> <font color="gray"> 28 人点评</font></li>
+<li><em>&gt;</em><a href="journal.php?view=detail&jid=6827" target="_blank">POLYMER</a> <font color="gray"> 110 人点评</font></li>
+<li><em>&gt;</em><a href="journal.php?view=detail&jid=2907" target="_blank">FOOD HYDROCOLLOIDS</a> <font color="gray"> 32 人点评</font></li>
+<li><em>&gt;</em><a href="journal.php?view=detail&jid=1953" target="_blank">COMPOSITE STRUCTURES</a> <font color="gray"> 75 人点评</font></li>
+<form method="get" action="journal.php" class="xmc_tm10">
+<li>搜索SCI期刊名：<input type="text" name="name" value="" size="20" class="input_txt input_w200">
+<input type="submit" name="ssubmit" value="搜索" class="xmc_Big_btn reg_button2">
+</li>
+</form>
+</ul>
+<div class="hr_10"></div>
+</div>
+<div class="forum_Post_w bg_global xmc_fr  bg_global_padding">
+<h2 class="xmc_title xmc_blue"><strong class="xmc_ft14"><a href="journal.php" target="_blank" class="xmc_blue">最新点评的中文期刊</a></strong></h2>
+<ul class="solid">
+<li><em>&gt;</em><a href="journal.php?view=detail&jid=459" target="_blank">南开管理评论</a> <font color="gray"> 3 人点评</font></li>
+<li><em>&gt;</em><a href="journal.php?view=detail&jid=4" target="_blank">安全与环境学报</a> <font color="gray"> 51 人点评</font></li>
+<li><em>&gt;</em><a href="journal.php?view=detail&jid=1057" target="_blank">中国水土保持科学</a> <font color="gray"> 12 人点评</font></li>
+<li><em>&gt;</em><a href="journal.php?view=detail&jid=774" target="_blank">浙江农业学报</a> <font color="gray"> 13 人点评</font></li>
+<li><em>&gt;</em><a href="journal.php?view=detail&jid=332" target="_blank">机械工程学报</a> <font color="gray"> 112 人点评</font></li>
+<li><em>&gt;</em><a href="journal.php?view=detail&jid=1058" target="_blank">无机盐工业</a> <font color="gray"> 19 人点评</font></li>
+<li><em>&gt;</em><a href="journal.php?view=detail&jid=489" target="_blank">热能动力工程</a> <font color="gray"> 20 人点评</font></li>
+<li><em>&gt;</em><a href="journal.php?view=detail&jid=294" target="_blank">华南理工大学学报(自然科学版)</a> <font color="gray"> 29 人点评</font></li>
+<li><em>&gt;</em><a href="journal.php?view=detail&jid=196" target="_blank">工业工程</a> <font color="gray"> 9 人点评</font></li>
+<li><em>&gt;</em><a href="journal.php?view=detail&jid=627" target="_blank">推进技术</a> <font color="gray"> 22 人点评</font></li>
+<form method="get" action="journal_cn.php" class="xmc_tm10">
+<li>搜索中文期刊名：<input type="text" name="name" value="" size="20" class="input_txt input_w200" >
+<input type="submit" name="ssubmit" value="搜索" class="xmc_Big_btn reg_button2">
+</li>
+</form>
+</ul>
+<div class="hr_10"></div>
+</div>
+</div>
+<div class="forum_Post bg_global  bg_global_padding">
+<h2 class="xmc_title xmc_blue"><strong class="xmc_ft14">全论坛公告</strong></h2>
+<ul class="solid">
+<li><em>&gt;</em><a href="http://muchong.com/t-13642817-1" target="_blank" class="xmc_ft14" title="看看都有哪些违禁词？发帖/回帖或者站内信息含有违禁词被封号！">看看都有哪些违禁词？发帖/回帖或者站内信息含有违禁词被 </a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-13110166-1-amp;pid-1#pid1" target="_blank" class="xmc_ft14" title="【2019年度注册执考区】招聘版主/专家顾问专贴">【2019年度注册执考区】招聘版主/专家顾问专贴</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-11530701-1" target="_blank" class="xmc_ft14" title="人文经济区相关版块进行重新调整公告">人文经济区相关版块进行重新调整公告</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-11513921-1-pid-1#pid1" target="_blank" class="xmc_ft14" title="专业学科区紧急招聘各专业才俊担任版主~属于你的机会来了~~">专业学科区紧急招聘各专业才俊担任版主~属于你的机会来了 </a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-11264359-1" target="_blank" class="xmc_ft14" title="【人文经济区】人文经济区成立暨版主招聘简章">【人文经济区】人文经济区成立暨版主招聘简章</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-9456136-1" target="_blank" class="xmc_ft14" title="【文献检索交流活动】你的方向你做主，检索文献快准稳">【文献检索交流活动】你的方向你做主，检索文献快准稳</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-6988213-1" target="_blank" class="xmc_ft14" title="【化学化工区】招聘实习版主/专家顾问（开学季，请大家踊跃申请）">【化学化工区】招聘实习版主/专家顾问（开学季，请大家踊 </a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-8698212-1" target="_blank" class="xmc_ft14" title="【有奖征集活动】文献链接检索交流——实例版">【有奖征集活动】文献链接检索交流——实例版</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-5276734-1" target="_blank" class="xmc_ft14" title="【文献求助区】代理Proxy资源版招聘专家顾问">【文献求助区】代理Proxy资源版招聘专家顾问</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-49210-1-view-old" target="_blank" class="xmc_ft14" title="小木虫论坛基本规则(会员必读)">小木虫论坛基本规则(会员必读)</a></li>
+</ul>
+</div>
+<div class="forum_Post bg_global">
+<h2 class="xmc_title xmc_blue"><strong class="xmc_ft14">板块置顶</strong></h2>
+<ul class="solid">
+<li><em>&gt;</em><a href="http://muchong.com/t-5675729-1" target="_blank" style="font-weight:bold;font-size:14px;color: blue" title="【学术交流区】专家顾问管理办法(2013年3月17日版)" class="xmc_ft14">【学术交流区】专家顾问管理办法(2013年3月17日版)</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-4264593-1" target="_blank" style="font-weight:bold;font-size:14px;color: blue" title="监督举报：论文交易/一稿多投/期刊广告/不当言论/建议意见" class="xmc_ft14">监督举报：论文交易/一稿多投/期刊广告/不当言论/建议意见</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3902956-1" target="_blank" style="font-weight:bold;font-size:14px;color: green" title="关于论文投稿版“求助贴”若干规定草案的公布" class="xmc_ft14">关于论文投稿版“求助贴”若干规定草案的公布</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3076987-1" target="_blank" style="font-weight:bold;font-size:14px;color: red" title="论文投稿综合版专家指数（S-EPI）管理办法（试行）" class="xmc_ft14">论文投稿综合版专家指数（S-EPI）管理办法（试行）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-1957829-1" target="_blank" style="font-weight:bold;color: red" title="论文投稿综合版版主议事厅" class="xmc_ft14">论文投稿综合版版主议事厅</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-1638205-1" target="_blank" style="font-weight:bold;color: red" title="论文投稿版版规及全版导航" class="xmc_ft14">论文投稿版版规及全版导航</a></li>
+</ul>
+</div>
+</div>
+
+
+
+
+
+
+
+<div class="wrapper">
+    <div class="forum_Post_index bg_global xmc_line_lr">
+        <h2 class="xmc_title xmc_blue"><strong class="xmc_ft14">论坛每日十大应助之星，欢迎应助专业学术问题来上榜 <span class="xmc_gray">(每2小时更新一次)</span></strong></h2>
+        <ul class="solid">
+            <table width=96% border="0" cellspacing="0" cellpadding="0" align="center" >
+                <tr>
+                                        <td align="center" valign="bottom">
+                        <div class="avatar"><a href="space.php?uid=1307364&view=helpnum" target="_blank"><img src="http://muchongavatar.xmcimg.com/data/avatar/62/1e/1307364.jpg" width="80" height="80"></a></div>
+                        <div class="xmc_star_data">
+                       <p><a href="space.php?uid=1307364&view=helpnum" target="_blank">songcumt</a></p>
+                            <p class="xmc_gray">4个应助</p>
+                        <p><a href="misc.php?action=myread&id=1307364&idtype=authorid" target="_blank" class="xmc_ta">关注TA</a></p></div>
+                    </td>
+                                        <td align="center" valign="bottom">
+                        <div class="avatar"><a href="space.php?uid=2171443&view=helpnum" target="_blank"><img src="http://muchongavatar.xmcimg.com/data/avatar/ff/c8/2171443.jpg" width="80" height="80"></a></div>
+                        <div class="xmc_star_data">
+                       <p><a href="space.php?uid=2171443&view=helpnum" target="_blank">bobvan</a></p>
+                            <p class="xmc_gray">4个应助</p>
+                        <p><a href="misc.php?action=myread&id=2171443&idtype=authorid" target="_blank" class="xmc_ta">关注TA</a></p></div>
+                    </td>
+                                        <td align="center" valign="bottom">
+                        <div class="avatar"><a href="space.php?uid=15971895&view=helpnum" target="_blank"><img src="http://muchongimg.xmcimg.com/oss2/avatar/8e/5e/15971895_1572784049.jpg" width="80" height="80"></a></div>
+                        <div class="xmc_star_data">
+                       <p><a href="space.php?uid=15971895&view=helpnum" target="_blank">s_reg163</a></p>
+                            <p class="xmc_gray">2个应助</p>
+                        <p><a href="misc.php?action=myread&id=15971895&idtype=authorid" target="_blank" class="xmc_ta">关注TA</a></p></div>
+                    </td>
+                                        <td align="center" valign="bottom">
+                        <div class="avatar"><a href="space.php?uid=791044&view=helpnum" target="_blank"><img src="http://muchongavatar.xmcimg.com/data/avatar/cc/31/791044_1463466366.gif" width="80" height="80"></a></div>
+                        <div class="xmc_star_data">
+                       <p><a href="space.php?uid=791044&view=helpnum" target="_blank">linkuodong</a></p>
+                            <p class="xmc_gray">1个应助</p>
+                        <p><a href="misc.php?action=myread&id=791044&idtype=authorid" target="_blank" class="xmc_ta">关注TA</a></p></div>
+                    </td>
+                                        <td align="center" valign="bottom">
+                        <div class="avatar"><a href="space.php?uid=330352&view=helpnum" target="_blank"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/avatars/12.gif" width="80" height="80"></a></div>
+                        <div class="xmc_star_data">
+                       <p><a href="space.php?uid=330352&view=helpnum" target="_blank">entomology</a></p>
+                            <p class="xmc_gray">1个应助</p>
+                        <p><a href="misc.php?action=myread&id=330352&idtype=authorid" target="_blank" class="xmc_ta">关注TA</a></p></div>
+                    </td>
+                                    </tr>
+            </table>
+        </ul>
+    </div>
+</div>
+
+<div class="wrapper">
+<div class="solid">
+<div class="xmc_fr xmc_Pages">
+<table class="multi" cellspacing="1" cellpadding="6" style=""><tr bgcolor="#E4EAF2" class="smalltxt"><td class="header">284531</td><td class="header">1/2846</td><td><u><b>1</b></u></td><td><a href="http://muchong.com/f-125-2">2</a></td><td><a href="http://muchong.com/f-125-3">3</a></td><td><a href="http://muchong.com/f-125-4">4</a></td><td><a href="http://muchong.com/f-125-5">5</a></td><td><a href="http://muchong.com/f-125-6">6</a></td><td><a href="http://muchong.com/f-125-2">下一页</a></td></tr></table></div>
+</div>
+</div>
+<div class="wrapper">
+<div class="hr_10"></div>
+<div class="forum_Tag">
+    <a  class="on" href="http://muchong.com/f-125-1">全部</a>
+        <a href="http://muchong.com/f-125-1-typeid-2691"  >教学教改专区</a>
+        <a href="http://muchong.com/f-125-1-typeid-42"  >原创经验</a>
+        <a href="http://muchong.com/f-125-1-typeid-824"  >交流</a>
+        <a href="http://muchong.com/f-125-1-typeid-43"  >论文写作</a>
+        <a href="http://muchong.com/f-125-1-typeid-45"  >投稿求助</a>
+        <a href="http://muchong.com/f-125-1-typeid-46"  >转载</a>
+        <a href="http://muchong.com/f-125-1-typeid-47"  >其他</a>
+        <a href="http://muchong.com/f-125-1-typeid-1246"  >版务</a>
+        <a href="http://muchong.com/f-125-1-typeid-1937"  >攻关求助（高奖励）</a>
+        <a href="http://muchong.com/f-125-1-typeid-2046"  >求助完结</a>
+    </div>
+<form method="post" name="moderate" action="topicadmin.php?action=moderate&fid=125&view=&type=&threadtype=0&order=lastpost&ascdesc=DESC&tagid=0" style="margin:0;padding:0;">
+<input type="hidden" name="formhash" value="5f41f52e">
+<div class="forum_head xmc_line_lr">
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+
+<th colspan="2" style="padding: 2px 0px 2px 15px;;">
+<a href="http://muchong.com/f-125-1"  class="xmc_blod">回帖排序</a>
+<a href="http://muchong.com/f-125-1-order-tid" >发表排序</a>
+ <a href="http://muchong.com/f-125-1" lass="xmc_blue">刷新页面</a>  &nbsp;<font color=gray>|</font>&nbsp; <a href="http://muchong.com/f-125-1-threadtype-1">交流</a> &nbsp;<font color=gray>|</font>&nbsp; <a href="http://muchong.com/f-125-1-threadtype-2"><font color=green>求助</font></a> &nbsp;<font color=gray>|</font>&nbsp; <a href="http://muchong.com/f-125-1-threadtype-3"><font color=red>资源</font></a><a href="http://muchong.com/f-125-1-view-digest"  >精华区</a>
+</th>
+<td class="by">作者</td>
+<td class="by">最后发表</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<div class="forum_body xmc_line_lr">
+<table border="0" cellpadding="0" cellspacing="0" class="xmc_bpt">
+<tr class="forum_list">
+<td class="icn" style="padding-left: 8px;"><span style="color:green;">[<a href="creditshow.php" style="color:green;">竞价</a>]</span></td>
+<th  class="thread-name">
+<a href="creditshow.php?action=view&logid=63981" target="_blank" class="a_subject"><span style="font-weight:bold;color:red;text-decoration:underline;">[会议征稿]叮~您有一封来自ICCBDAI2020的信息待查收！</span></a>
+</th>
+<td class="by"><cite><a href="space.php?uid=13014691" target="_blank">ayl624676</a></cite>
+<span class="xmc_b9">2020-09-07</span></td>
+<td class="by">刚刚</td>
+</tr>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-46" title="转载" class="xmc_blue">转载</a>]</span> <font color="red">[推荐]</font>
+
+<a class="a_subject" href="/t-14267685-1" style="font-weight:bold;color: red" target="_blank">【转载】全国政协委员丁奎岭：严打论文“地下产业链”，加强学术诚信监管力度</a>
+
+<span style="color:gray;">(5/10814)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=622095">天天向上3035</a></cite>
+<span class="xmc_b9">
+2020-05-22</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-03 05:31:07</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=nejz6285" class="xmc_b9">nejz6285</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-43" title="论文写作" class="xmc_blue">论文写作</a>]</span> <font color="red">[推荐]</font>
+
+<a class="a_subject" href="/t-14250098-1" style="font-weight:bold;color: red" target="_blank">学术论文署名中的诚信问题—中国科学院科研道德委员会</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-14250098-1">1</a> <a href="/t-14250098-2">2</a> )
+<span style="color:gray;">(12/3037)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=622095">天天向上3035</a></cite>
+<span class="xmc_b9">
+2020-05-13</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-06-15 00:46:59</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=bobvan" class="xmc_b9">bobvan</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-46" title="转载" class="xmc_blue">转载</a>]</span> <font color="red">[推荐]</font>
+
+<a class="a_subject" href="/t-13790163-1" style="font-weight:bold;color: blue" target="_blank">读博已经很穷了，你还收这么贵的版面费（附各大杂志版面费价格）</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-13790163-1">1</a> <a href="/t-13790163-2">2</a> )
+<span style="color:gray;">(57/24632)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=151384">挥汗如雨</a></cite>
+<span class="xmc_b9">
+2019-12-08</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 15:19:15</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=petro" class="xmc_b9">petro</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/red.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-824" title="交流" class="xmc_blue">交流</a>]</span> 
+<a class="a_subject" href="/t-14423800-1" target="_blank">投了个国产期刊，送审已经一个月了</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">666</font>
+
+<span style="color:gray;">(1/61)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=8078995">陌上花开L</a></cite>
+<span class="xmc_b9">
+<font color="red">2020-09-07</font>
+</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-07 03:47:40</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=muumii" class="xmc_b9">muumii</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> 
+<a class="a_subject" href="/t-14420161-1" target="_blank">帮我看一下编辑意思，重投，  机会大吗？Decline: with option to resubmit</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-14420161-1">1</a> <a href="/t-14420161-2">2</a> )
+<span style="color:gray;">(11/785)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=8127965">2017060290</a></cite>
+<span class="xmc_b9">
+2020-09-03</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-07 02:47:50</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%C4%A7%CB%E1" class="xmc_b9">魔酸</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-824" title="交流" class="xmc_blue">交流</a>]</span> <span class="icon_vote xmc_rm10"></span>投票:&nbsp;
+
+<a class="a_subject" href="/t-9875618-1" target="_blank">sci英文期刊，返修稿增加一个‘共同通讯作者’，可行？</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-9875618-1">1</a> <a href="/t-9875618-2">2</a> <a href="/t-9875618-3">3</a> )
+<span style="color:gray;">(21/7591)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=935681">会飞的小猪</a></cite>
+<span class="xmc_b9">
+2016-01-15</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-07 02:45:35</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%C9%BA%C9%BAkad" class="xmc_b9">珊珊kad</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-824" title="交流" class="xmc_blue">交流</a>]</span> <span class="icon_vote xmc_rm10"></span>投票:&nbsp;
+
+<a class="a_subject" href="/t-7483532-1" target="_blank">你的论文被仲裁之后，最终被拒了还是接收了？</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-7483532-1">1</a> <a href="/t-7483532-2">2</a> <a href="/t-7483532-3">3</a> )
+<span style="color:gray;">(106/23781)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=2611526">绍敏郡主</a></cite>
+<span class="xmc_b9">
+2014-06-02</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-07 02:45:04</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=ymnh" class="xmc_b9">ymnh</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-824" title="交流" class="xmc_blue">交流</a>]</span> <span class="icon_vote xmc_rm10"></span>投票:&nbsp;
+
+<a class="a_subject" href="/t-14356549-1" target="_blank">大家觉得中美关系对于投美国期刊有无影响</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-14356549-1">1</a> <a href="/t-14356549-2">2</a> <a href="/t-14356549-3">3</a> <a href="/t-14356549-4">4</a> <a href="/t-14356549-5">5</a> )
+<span style="color:gray;">(43/17963)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1833165">tobagoldz</a></cite>
+<span class="xmc_b9">
+2020-07-16</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-07 02:44:52</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=donghong2016" class="xmc_b9">donghong2016</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> 
+<a class="a_subject" href="/t-14423701-1" target="_blank">第一次给了大修，第二次还给大修</a>
+
+<span style="color:gray;">(5/470)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=15848641">阆苑小太阳</a></cite>
+<span class="xmc_b9">
+2020-09-06</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-07 02:33:02</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=cyxirene" class="xmc_b9">cyxirene</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/app/redpackicon.png" align="absmiddle" title="红包">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-47" title="其他" class="xmc_blue">其他</a>]</span> 
+<a class="a_subject" href="/t-14423535-1" target="_blank">我真的真的太开心了，我的论文录用了！！！</a>
+
+<span style="color:gray;">(24/412)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=7183742">Krystal娜</a></cite>
+<span class="xmc_b9">
+2020-09-06</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-07 02:14:38</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=mxnjfu" class="xmc_b9">mxnjfu</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/app/redpackicon.png" align="absmiddle" title="红包">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-47" title="其他" class="xmc_blue">其他</a>]</span> <font color="red">[热]</font>
+
+<a class="a_subject" href="/t-14423670-1" target="_blank">录用</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-14423670-1">1</a> <a href="/t-14423670-2">2</a> )
+<span style="color:gray;">(52/268)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=19754571">十一啊我</a></cite>
+<span class="xmc_b9">
+2020-09-06</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-07 02:12:44</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=mxnjfu" class="xmc_b9">mxnjfu</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-43" title="论文写作" class="xmc_blue">论文写作</a>]</span> 
+<a class="a_subject" href="/t-14423647-1" target="_blank">编辑的意见看不懂avoid using multiple references after one sentence</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">10</font>
+
+<span style="color:gray;">(9/214)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=3176735">scanbycyan</a></cite>
+<span class="xmc_b9">
+2020-09-06</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-07 01:50:55</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%CA%AF%D3%CD%B3%AD%C8%CB" class="xmc_b9">石油抄人</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> 
+<a class="a_subject" href="/t-14422984-1" target="_blank">大修返回后，waiting decision 又变回了 under review</a>
+
+<span style="color:gray;">(5/162)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=18247657">lnts1996</a></cite>
+<span class="xmc_b9">
+2020-09-06</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-07 01:38:59</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=lnts1996" class="xmc_b9">lnts1996</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> 
+<a class="a_subject" href="/t-14423536-1" target="_blank">track your accpted article为啥查不到状态信息啊</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">10</font>
+
+<span style="color:gray;">(3/97)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=2230956">sysulxy</a></cite>
+<span class="xmc_b9">
+2020-09-06</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-07 01:13:49</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=bobvan" class="xmc_b9">bobvan</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> 
+<a class="a_subject" href="/t-14350681-1" target="_blank">请问OPTIK期刊投稿成功后多久状态会变到with edtor?</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-14350681-1">1</a> <a href="/t-14350681-2">2</a> <a href="/t-14350681-3">3</a> <a href="/t-14350681-4">4</a> )
+<span style="color:gray;">(30/537)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=2736172">断桥桥1022</a></cite>
+<span class="xmc_b9">
+2020-07-13</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-07 01:13:17</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=smilesgly" class="xmc_b9">smilesgly</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> 
+<a class="a_subject" href="/t-14423299-1" target="_blank">Science China Chemistry-投稿</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">5</font>
+
+<span style="color:gray;">(8/140)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1368785">大东</a></cite>
+<span class="xmc_b9">
+2020-09-06</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-07 01:12:13</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=bobvan" class="xmc_b9">bobvan</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> 
+<a class="a_subject" href="/t-14423748-1" target="_blank">大神们，环境监测类求推荐SCI</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">15</font>
+
+<span style="color:gray;">(1/53)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=8453368">worrywyr</a></cite>
+<span class="xmc_b9">
+<font color="red">2020-09-07</font>
+</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-07 01:10:01</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=bobvan" class="xmc_b9">bobvan</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/red.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> 
+<a class="a_subject" href="/t-14423742-1" target="_blank">文章：动物药效    细胞做机制；  修回   审稿人问为什么不用动物组织做机制</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">14</font>
+
+<span style="color:gray;">(6/58)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1076453">宜兰</a></cite>
+<span class="xmc_b9">
+<font color="red">2020-09-07</font>
+</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-07 01:09:01</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=564986317" class="xmc_b9">564986317</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/red.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-824" title="交流" class="xmc_blue">交流</a>]</span> 
+<a class="a_subject" href="/t-14423775-1" target="_blank">被拒稿拒的麻木</a>
+
+<span style="color:gray;">(3/152)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=8064326">加油你是最棒</a></cite>
+<span class="xmc_b9">
+<font color="red">2020-09-07</font>
+</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-07 01:04:07</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=bobvan" class="xmc_b9">bobvan</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> 
+<a class="a_subject" href="/t-14421895-1" target="_blank">EES initial assessment</a>
+
+<span style="color:gray;">(4/190)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=7554245">MyrieIvy</a></cite>
+<span class="xmc_b9">
+2020-09-05</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-07 01:01:24</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=bobvan" class="xmc_b9">bobvan</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/app/redpackicon.png" align="absmiddle" title="红包">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> <font color="red">[热]</font>
+
+<a class="a_subject" href="/t-14423180-1" target="_blank">论文刚刚投了，散尽金币，给我中！！！</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-14423180-1">1</a> <a href="/t-14423180-2">2</a> <a href="/t-14423180-3">3</a> <a href="/t-14423180-4">4</a> <a href="/t-14423180-5">5</a> <a href="/t-14423180-6">6</a>  .. <a href="/t-14423180-10">10</a> )
+<span style="color:gray;">(469/437)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=13177578">FringFlynn</a></cite>
+<span class="xmc_b9">
+2020-09-06</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-07 00:57:29</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=kyxioabai" class="xmc_b9">kyxioabai</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-824" title="交流" class="xmc_blue">交流</a>]</span> <span class="icon_vote xmc_rm10"></span>投票:&nbsp;
+
+<a class="a_subject" href="/t-5290948-1" target="_blank">各位【理工科】刚毕业和即将毕业的博士们，你们毕业时有几篇第一作者SCI？</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-5290948-1">1</a> <a href="/t-5290948-2">2</a> <a href="/t-5290948-3">3</a> <a href="/t-5290948-4">4</a> <a href="/t-5290948-5">5</a> <a href="/t-5290948-6">6</a>  .. <a href="/t-5290948-29">29</a> )<font color="red"> (评阅+3)</font>
+
+<span style="color:gray;">(287/43009)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=839539">jin151</a></cite>
+<span class="xmc_b9">
+2012-12-11</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-07 00:52:25</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=sherryrain" class="xmc_b9">sherryrain</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> 
+<a class="a_subject" href="/t-14423466-1" target="_blank">人民长江外审</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">11</font>
+
+<span style="color:gray;">(10/123)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=22980303">丘比特之吻</a></cite>
+<span class="xmc_b9">
+2020-09-06</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-07 00:42:39</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=44al" class="xmc_b9">44al</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/app/redpackicon.png" align="absmiddle" title="红包">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> 
+<a class="a_subject" href="/t-14423699-1" target="_blank">论文的社会影响声明怎么写</a>
+
+<span style="color:gray;">(2/106)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=20307998">hello.cong</a></cite>
+<span class="xmc_b9">
+2020-09-06</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-07 00:41:44</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=bjvtwdov" class="xmc_b9">bjvtwdov</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> 
+<a class="a_subject" href="/t-14423632-1" target="_blank">编辑部稿件处理后再次外审是什么原因？</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">11</font>
+
+<span style="color:gray;">(10/128)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=13026846">学术小流氓</a></cite>
+<span class="xmc_b9">
+2020-09-06</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-07 00:29:53</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=44al" class="xmc_b9">44al</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/app/redpackicon.png" align="absmiddle" title="红包">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-43" title="论文写作" class="xmc_blue">论文写作</a>]</span> 
+<a class="a_subject" href="/t-14402342-1" target="_blank">散金咯</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-14402342-1">1</a> <a href="/t-14402342-2">2</a> <a href="/t-14402342-3">3</a> <a href="/t-14402342-4">4</a> <a href="/t-14402342-5">5</a> <a href="/t-14402342-6">6</a>  .. <a href="/t-14402342-10">10</a> )<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">3707</font>
+
+<span style="color:gray;">(481/753)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1098184">fansofjerry</a></cite>
+<span class="xmc_b9">
+2020-08-20</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-07 00:21:24</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=44al" class="xmc_b9">44al</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> 
+<a class="a_subject" href="/t-14423747-1" target="_blank">APL审稿状态求助</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">5</font>
+
+<span style="color:gray;">(0/52)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=2236757">yangkuan88</a></cite>
+<span class="xmc_b9">
+<font color="red">2020-09-07</font>
+</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-07 00:15:22</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=yangkuan88" class="xmc_b9">yangkuan88</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> 
+<a class="a_subject" href="/t-14423630-1" target="_blank">计算机方向开放获取期刊cs category OA journal推荐</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">20</font>
+
+<span style="color:gray;">(1/51)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=3980129">张小小旭</a></cite>
+<span class="xmc_b9">
+2020-09-06</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-07 00:11:28</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=mmmmmeemmmmm" class="xmc_b9">mmmmmeemmmmm</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> 
+<a class="a_subject" href="/t-14423038-1" target="_blank">机械领域的英文期刊修改后一般多长时间有结果</a>
+
+<span style="color:gray;">(8/110)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=4201492">henryexcel</a></cite>
+<span class="xmc_b9">
+2020-09-06</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 23:52:03</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=zhipai1307" class="xmc_b9">zhipai1307</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-824" title="交流" class="xmc_blue">交流</a>]</span> 
+<a class="a_subject" href="/t-14423176-1" target="_blank">怎么找研究热点？</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">10</font>
+
+<span style="color:gray;">(5/234)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=21787223">呼呼ing</a></cite>
+<span class="xmc_b9">
+2020-09-06</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 23:47:09</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%CB%AF%D7%C5%B5%C4%CE%B4%C0%B4" class="xmc_b9">睡着的未来</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> 
+<a class="a_subject" href="/t-14423025-1" target="_blank">请问JMCA的initial assessment一般多长时间？</a>
+
+<span style="color:gray;">(7/266)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1670963">琅轩</a></cite>
+<span class="xmc_b9">
+2020-09-06</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 23:28:42</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=497257411" class="xmc_b9">497257411</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-47" title="其他" class="xmc_blue">其他</a>]</span> <span class="icon_vote xmc_rm10"></span>投票:&nbsp;
+
+<a class="a_subject" href="/t-1153664-1" target="_blank">调查博士毕业时共发表（包括已接受）多少篇一作论文</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-1153664-1">1</a> <a href="/t-1153664-2">2</a> <a href="/t-1153664-3">3</a> <a href="/t-1153664-4">4</a> <a href="/t-1153664-5">5</a> <a href="/t-1153664-6">6</a>  .. <a href="/t-1153664-82">82</a> )<font color="red"> (评阅+1)</font>
+
+<span style="color:gray;">(814/78085)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=393796">chenwenlong</a></cite>
+<span class="xmc_b9">
+2009-02-01</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 23:20:08</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=xs055" class="xmc_b9">xs055</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> 
+<a class="a_subject" href="/t-14394555-1" target="_blank"><font color=purple>[已完结]</font>ionics接收后 proof会发给投稿邮箱还是论文里写得通讯邮箱啊</a>
+
+<span style="color:gray;">(9/171)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=21213204">MeMe不会哒</a></cite>
+<span class="xmc_b9">
+2020-08-13</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 23:06:44</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=fanxuliang90" class="xmc_b9">fanxuliang90</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> 
+<a class="a_subject" href="/t-14422217-1" target="_blank">waiting recommendation 很久</a>
+
+<span style="color:gray;">(4/125)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=4221404">hpcastle</a></cite>
+<span class="xmc_b9">
+2020-09-05</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 22:45:25</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=15690326186" class="xmc_b9">15690326186</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-824" title="交流" class="xmc_blue">交流</a>]</span> 
+<a class="a_subject" href="/t-14423230-1" target="_blank">IEEE Transactions on Industrial Informatics一审一般多久</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-14423230-1">1</a> <a href="/t-14423230-2">2</a> )
+<span style="color:gray;">(11/301)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=4539548">pantray</a></cite>
+<span class="xmc_b9">
+2020-09-06</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 22:43:18</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=15690326186" class="xmc_b9">15690326186</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-47" title="其他" class="xmc_blue">其他</a>]</span> 
+<a class="a_subject" href="/t-14423308-1" target="_blank">ionics 期刊是花钱的期刊，如果不选open access的话，是不是就不花钱了？</a>
+
+<span style="color:gray;">(1/94)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=3205921">同城记忆</a></cite>
+<span class="xmc_b9">
+2020-09-06</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 22:42:01</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=mountain022" class="xmc_b9">mountain022</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-43" title="论文写作" class="xmc_blue">论文写作</a>]</span> 
+<a class="a_subject" href="/t-14419899-1" target="_blank">有大神遇到期刊连续两次要求修改却没有意见吗？</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">4</font>
+
+<span style="color:gray;">(19/220)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=3582579">Leibnizgao</a></cite>
+<span class="xmc_b9">
+2020-09-03</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 22:37:42</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=psylhh" class="xmc_b9">psylhh</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-42" title="原创经验" class="xmc_blue">原创经验</a>]</span> 
+<a class="a_subject" href="/t-14420423-1" target="_blank">投稿还需首尾相望</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">6</font>
+
+<span style="color:gray;">(44/503)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=2024336">神奇标</a></cite>
+<span class="xmc_b9">
+2020-09-04</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 22:32:21</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=psylhh" class="xmc_b9">psylhh</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/app/redpackicon.png" align="absmiddle" title="红包">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> 
+<a class="a_subject" href="/t-14422850-1" target="_blank">中文EI资源求助，有偿</a>
+
+<span style="color:gray;">(23/337)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=4411389">yanyan1189</a></cite>
+<span class="xmc_b9">
+2020-09-06</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 22:24:42</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=yanyan1189" class="xmc_b9">yanyan1189</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-824" title="交流" class="xmc_blue">交流</a>]</span> 
+<a class="a_subject" href="/t-14421633-1" target="_blank">请问IEEE ACCESS主编初审多久，会分配ADM，多久再分配给AE啊，多久出审稿意见啊。</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-14421633-1">1</a> <a href="/t-14421633-2">2</a> )<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">39</font>
+
+<span style="color:gray;">(18/259)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=3594048">锦衣卫寒战</a></cite>
+<span class="xmc_b9">
+2020-09-04</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 22:21:36</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%BD%F5%D2%C2%CE%C0%BA%AE%D5%BD" class="xmc_b9">锦衣卫寒战</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-42" title="原创经验" class="xmc_blue">原创经验</a>]</span> 
+<a class="a_subject" href="/t-14348451-1" target="_blank">ACS nano投稿经历</a>
+
+<span style="color:gray;">(13/660)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1128988">smile_trip</a></cite>
+<span class="xmc_b9">
+2020-07-10</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 22:21:00</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%CF%F4%BA%CE0217" class="xmc_b9">萧何0217</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> 
+<a class="a_subject" href="/t-14423646-1" target="_blank">请问cell resource是什么类型文章</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">5</font>
+
+<span style="color:gray;">(0/70)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1843238">mean6</a></cite>
+<span class="xmc_b9">
+2020-09-06</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 22:16:21</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=mean6" class="xmc_b9">mean6</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> 
+<a class="a_subject" href="/t-14422842-1" target="_blank">advanced science投稿</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-14422842-1">1</a> <a href="/t-14422842-2">2</a> )<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">4</font>
+
+<span style="color:gray;">(11/325)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=820721">cpbaby</a></cite>
+<span class="xmc_b9">
+2020-09-06</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 21:42:59</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=cpbaby" class="xmc_b9">cpbaby</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/app/redpackicon.png" align="absmiddle" title="红包">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-824" title="交流" class="xmc_blue">交流</a>]</span> 
+<a class="a_subject" href="/t-14423382-1" target="_blank">论文修回了</a>
+
+<span style="color:gray;">(22/279)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=3173015">yujun1214</a></cite>
+<span class="xmc_b9">
+2020-09-06</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 21:36:55</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%CA%C5%CB%AE%CE%DE%BA%DB1990" class="xmc_b9">逝水无痕1990</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> 
+<a class="a_subject" href="/t-14423173-1" target="_blank">哪位虫友近期在Polycyclic Aromatic Compounds 投稿过？under review俩月，要不要催？</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">10</font>
+
+<span style="color:gray;">(5/79)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=3983648">hangzhou207</a></cite>
+<span class="xmc_b9">
+2020-09-06</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 21:36:40</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%CA%C5%CB%AE%CE%DE%BA%DB1990" class="xmc_b9">逝水无痕1990</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> 
+<a class="a_subject" href="/t-14423548-1" target="_blank">容易发的科技核心</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">5</font>
+
+<span style="color:gray;">(2/109)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=21853440">快乐小医学生</a></cite>
+<span class="xmc_b9">
+2020-09-06</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 21:35:57</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%CA%C5%CB%AE%CE%DE%BA%DB1990" class="xmc_b9">逝水无痕1990</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-824" title="交流" class="xmc_blue">交流</a>]</span> 
+<a class="a_subject" href="/t-14423243-1" target="_blank"><font color=purple>[已完结]</font>审稿人意见：The language needs to be improved in general.该如何回复？</a>
+
+<span style="color:gray;">(6/291)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1181475">AI_bing</a></cite>
+<span class="xmc_b9">
+2020-09-06</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 21:35:49</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%CA%C5%CB%AE%CE%DE%BA%DB1990" class="xmc_b9">逝水无痕1990</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-824" title="交流" class="xmc_blue">交流</a>]</span> <span class="icon_vote xmc_rm10"></span>投票:&nbsp;
+
+<a class="a_subject" href="/t-6319582-1" target="_blank">Required Reviews Completed一个月后会是什么结果？</a>
+
+<span style="color:gray;">(30/3316)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1182361">tyutzw</a></cite>
+<span class="xmc_b9">
+2013-09-04</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 21:30:10</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=hl1258963909" class="xmc_b9">hl1258963909</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> 
+<a class="a_subject" href="/t-13131758-1" target="_blank">求optik期刊的word版本模板</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">10</font>
+
+<span style="color:gray;">(4/499)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=6505643">wulfiyee</a></cite>
+<span class="xmc_b9">
+2019-01-13</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 21:24:14</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=dcdyy" class="xmc_b9">dcdyy</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> 
+<a class="a_subject" href="/t-14421136-1" target="_blank">用163邮箱回复艾斯威尔的邮件出现问题求解惑</a>
+
+<span style="color:gray;">(6/185)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1080336">xiongnr</a></cite>
+<span class="xmc_b9">
+2020-09-04</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 20:58:33</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=xiongnr" class="xmc_b9">xiongnr</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> 
+<a class="a_subject" href="/t-14362752-1" target="_blank">information science投稿问题，新手求助</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">20</font>
+
+<span style="color:gray;">(3/211)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=14671594">wenjk</a></cite>
+<span class="xmc_b9">
+2020-07-21</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 20:56:21</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=ppsucjack" class="xmc_b9">ppsucjack</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> 
+<a class="a_subject" href="/t-14409233-1" target="_blank">Expert System With Application投稿求助(二审)</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-14409233-1">1</a> <a href="/t-14409233-2">2</a> )<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">5</font>
+
+<span style="color:gray;">(13/521)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=20568941">zhuxp9527</a></cite>
+<span class="xmc_b9">
+2020-08-25</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 20:52:44</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=ppsucjack" class="xmc_b9">ppsucjack</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> <font color="red">[热]</font>
+
+<a class="a_subject" href="/t-14415393-1" target="_blank">论文交完版面费，编辑婉拒</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-14415393-1">1</a> <a href="/t-14415393-2">2</a> <a href="/t-14415393-3">3</a> <a href="/t-14415393-4">4</a> <a href="/t-14415393-5">5</a> <a href="/t-14415393-6">6</a>  .. <a href="/t-14415393-7">7</a> )
+<span style="color:gray;">(63/4469)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=23425487">独白大大彬</a></cite>
+<span class="xmc_b9">
+2020-08-31</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 20:52:31</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%B9%D8%BA%EC%D5%C5%BA%DA" class="xmc_b9">关红张黑</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> 
+<a class="a_subject" href="/t-14335576-1" target="_blank">机械传动期刊要求的重复率是多少？</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">5</font>
+
+<span style="color:gray;">(3/141)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=3759316">dhzh24</a></cite>
+<span class="xmc_b9">
+2020-07-02</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 20:46:14</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=gusu137895" class="xmc_b9">gusu137895</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/app/redpackicon.png" align="absmiddle" title="红包">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-824" title="交流" class="xmc_blue">交流</a>]</span> 
+<a class="a_subject" href="/t-14133390-1" target="_blank">还愿</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-14133390-1">1</a> <a href="/t-14133390-2">2</a> )
+<span style="color:gray;">(88/438)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=9294249">Dgelom</a></cite>
+<span class="xmc_b9">
+2020-03-12</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 20:16:10</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=2009%D4%C6%B7%C9%D1%EF" class="xmc_b9">2009云飞扬</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> 
+<a class="a_subject" href="/t-14422011-1" target="_blank">rsc adv 小修过后怎么又是in peer review</a>
+
+<span style="color:gray;">(7/488)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=8118383">田肴啊</a></cite>
+<span class="xmc_b9">
+2020-09-05</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 19:51:17</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=843159179" class="xmc_b9">843159179</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-43" title="论文写作" class="xmc_blue">论文写作</a>]</span> 
+<a class="a_subject" href="/t-14423502-1" target="_blank">origin里面三维图不能画垂直面吗？</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">20</font>
+
+<span style="color:gray;">(0/67)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=23032170">gaio3331</a></cite>
+<span class="xmc_b9">
+2020-09-06</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 19:41:35</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=gaio3331" class="xmc_b9">gaio3331</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-42" title="原创经验" class="xmc_blue">原创经验</a>]</span> 
+<a class="a_subject" href="/t-14274175-1" target="_blank">Frontiers in Microbiology 杂志介绍</a>
+
+<span style="color:gray;">(12/663)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=875241">xiaoma0556</a></cite>
+<span class="xmc_b9">
+2020-05-24</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 19:15:14</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%C5%AC%C5%AC%BE%FA" class="xmc_b9">努努菌</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> 
+<a class="a_subject" href="/t-14327531-1" target="_blank">导师让投IEEE Access，本人不想投，大家有啥建议吗？</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-14327531-1">1</a> <a href="/t-14327531-2">2</a> <a href="/t-14327531-3">3</a> <a href="/t-14327531-4">4</a> <a href="/t-14327531-5">5</a> )
+<span style="color:gray;">(40/4004)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=14784369">mao_xiao</a></cite>
+<span class="xmc_b9">
+2020-06-26</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 19:02:03</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=haolaoban" class="xmc_b9">haolaoban</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> 
+<a class="a_subject" href="/t-13784486-1" target="_blank">scholarone的author界面无法进入</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">10</font>
+
+<span style="color:gray;">(5/556)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=3596552">schweinfan</a></cite>
+<span class="xmc_b9">
+2019-12-04</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 18:55:12</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=7410sy" class="xmc_b9">7410sy</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> 
+<a class="a_subject" href="/t-14421282-1" target="_blank">两篇方向相同，基础方法相同，不同改进的文章，相隔一年，投稿同一期刊可以吗</a>
+
+<span style="color:gray;">(6/283)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=15899261">wqshmzh</a></cite>
+<span class="xmc_b9">
+2020-09-04</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 18:22:58</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=StevenMech" class="xmc_b9">StevenMech</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> 
+<a class="a_subject" href="/t-14321502-1" target="_blank">remove imcomplete submission</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">100</font>
+
+<span style="color:gray;">(8/279)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1656248">西园无忌</a></cite>
+<span class="xmc_b9">
+2020-06-22</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 18:20:06</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=nana0423" class="xmc_b9">nana0423</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> 
+<a class="a_subject" href="/t-14423429-1" target="_blank">Carhohydrate polymers 投稿作者问题</a>
+
+<span style="color:gray;">(0/50)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=5245962">倩小屋521</a></cite>
+<span class="xmc_b9">
+2020-09-06</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 18:12:01</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%D9%BB%D0%A1%CE%DD521" class="xmc_b9">倩小屋521</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> <font color="red">[热]</font>
+
+<a class="a_subject" href="/t-14416008-1" target="_blank">【散金】IEEE-TAC一审Decision Pending要多久</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-14416008-1">1</a> <a href="/t-14416008-2">2</a> <a href="/t-14416008-3">3</a> )<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">66</font>
+
+<span style="color:gray;">(103/479)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=4348743">YuyueYen</a></cite>
+<span class="xmc_b9">
+2020-09-01</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 18:08:52</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=LifePursuit" class="xmc_b9">LifePursuit</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-824" title="交流" class="xmc_blue">交流</a>]</span> <span class="icon_vote xmc_rm10"></span>投票:&nbsp;
+
+<a class="a_subject" href="/t-14358222-1" target="_blank">看看MDPI能进入到under review的出身</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-14358222-1">1</a> <a href="/t-14358222-2">2</a> )
+<span style="color:gray;">(64/2571)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1000126">zhanglin_84</a></cite>
+<span class="xmc_b9">
+2020-07-17</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 18:02:37</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=Kimlulu" class="xmc_b9">Kimlulu</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-824" title="交流" class="xmc_blue">交流</a>]</span> <span class="icon_vote xmc_rm10"></span>投票:&nbsp;
+
+<a class="a_subject" href="/t-14358374-1" target="_blank">看看被MDPI模板直接拒稿的出身</a>
+
+<span style="color:gray;">(36/2418)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1000126">zhanglin_84</a></cite>
+<span class="xmc_b9">
+2020-07-17</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 18:01:48</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=longqd" class="xmc_b9">longqd</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> 
+<a class="a_subject" href="/t-13682158-1" target="_blank">Journal of urban planning and development 期刊返修意见麻烦大家帮忙看看……</a>
+
+<span style="color:gray;">(7/268)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=5859558">Cocouu</a></cite>
+<span class="xmc_b9">
+2019-10-08</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 17:41:37</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=hesu_1111" class="xmc_b9">hesu_1111</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> 
+<a class="a_subject" href="/t-14419525-1" target="_blank">编辑的话什么意思？</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-14419525-1">1</a> <a href="/t-14419525-2">2</a> )
+<span style="color:gray;">(11/707)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=14658972">stan1111</a></cite>
+<span class="xmc_b9">
+2020-09-03</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 17:39:38</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=petro" class="xmc_b9">petro</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-824" title="交流" class="xmc_blue">交流</a>]</span> 
+<a class="a_subject" href="/t-13472707-1" target="_blank">Environment and Development Economics</a>
+
+<span style="color:gray;">(2/587)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=15144762">redcolumn</a></cite>
+<span class="xmc_b9">
+2019-06-14</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 17:24:38</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=hesu_1111" class="xmc_b9">hesu_1111</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-43" title="论文写作" class="xmc_blue">论文写作</a>]</span> 
+<a class="a_subject" href="/t-14422734-1" target="_blank">数学公式越多越好发改论文吗</a>
+
+<span style="color:gray;">(7/474)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=14870075">yanzhibo11</a></cite>
+<span class="xmc_b9">
+2020-09-05</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 17:07:00</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=yanzhibo11" class="xmc_b9">yanzhibo11</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> 
+<a class="a_subject" href="/t-14423223-1" target="_blank">web of science 文章被遗漏检索</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">66</font>
+
+<span style="color:gray;">(4/265)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=2617116">ytujrj</a></cite>
+<span class="xmc_b9">
+2020-09-06</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 17:04:42</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=songcumt" class="xmc_b9">songcumt</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> 
+<a class="a_subject" href="/t-14423279-1" target="_blank">中国有机化学等待编辑最终处理</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">5</font>
+
+<span style="color:gray;">(2/78)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=15662389">Zsr016</a></cite>
+<span class="xmc_b9">
+2020-09-06</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 17:02:45</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=songcumt" class="xmc_b9">songcumt</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-824" title="交流" class="xmc_blue">交流</a>]</span> 
+<a class="a_subject" href="/t-14378298-1" target="_blank">SCI署名中带有企业单位和工作人员可以吗？</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-14378298-1">1</a> <a href="/t-14378298-2">2</a> )<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">4</font>
+
+<span style="color:gray;">(51/673)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=2054729">江南小毛羊</a></cite>
+<span class="xmc_b9">
+2020-08-01</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 16:52:13</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=bjdxyxy" class="xmc_b9">bjdxyxy</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-42" title="原创经验" class="xmc_blue">原创经验</a>]</span> 
+<a class="a_subject" href="/t-8913048-1" target="_blank">关于投SCI时候word无法生成PDF的解决方法</a>
+
+<span style="color:gray;">(6/1822)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1658740">hqusurui</a></cite>
+<span class="xmc_b9">
+2015-05-10</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 16:29:06</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%C0%D7%D3%EA%BC%D3%B1%A9%D3%EA" class="xmc_b9">雷雨加暴雨</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> 
+<a class="a_subject" href="/t-14423334-1" target="_blank">computer&amp;security投稿</a>
+
+<span style="color:gray;">(0/32)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=7665980">咬梨梨</a></cite>
+<span class="xmc_b9">
+2020-09-06</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 16:20:07</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%D2%A7%C0%E6%C0%E6" class="xmc_b9">咬梨梨</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> 
+<a class="a_subject" href="/t-14353594-1" target="_blank"><font color=purple>[已完结]</font>EVISE转换为EM的奇葩经历</a>
+
+<span style="color:gray;">(4/286)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=6062572">期待雨天</a></cite>
+<span class="xmc_b9">
+2020-07-14</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 15:58:14</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=king%C4%D0%C9%FA%BE%AD" class="xmc_b9">king男生经</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-824" title="交流" class="xmc_blue">交流</a>]</span> 
+<a class="a_subject" href="/t-13637676-1" target="_blank">我真是太难了，几篇文章都在终审环节被拒</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-13637676-1">1</a> <a href="/t-13637676-2">2</a> )
+<span style="color:gray;">(71/2566)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=2242491">神之暗箭</a></cite>
+<span class="xmc_b9">
+2019-09-10</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 15:54:10</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%C8%CB%C0%E0%B6%AF%CE%EF%D4%B0" class="xmc_b9">人类动物园</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-43" title="论文写作" class="xmc_blue">论文写作</a>]</span> 
+<a class="a_subject" href="/t-14419723-1" target="_blank">控制类，审稿快容易中的SCI四区期刊推荐</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">10</font>
+
+<span style="color:gray;">(8/315)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=4493583">cddcjf</a></cite>
+<span class="xmc_b9">
+2020-09-03</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 15:51:56</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=hebau0702" class="xmc_b9">hebau0702</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/app/redpackicon.png" align="absmiddle" title="红包">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-824" title="交流" class="xmc_blue">交流</a>]</span> <font color="red">[热]</font>
+
+<a class="a_subject" href="/t-14423270-1" target="_blank">原位拉曼XRD</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-14423270-1">1</a> <a href="/t-14423270-2">2</a> )
+<span style="color:gray;">(70/180)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1421711">厕所唱情歌</a></cite>
+<span class="xmc_b9">
+2020-09-06</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 15:20:56</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%B2%DE%CB%F9%B3%AA%C7%E9%B8%E8" class="xmc_b9">厕所唱情歌</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-824" title="交流" class="xmc_blue">交流</a>]</span> 
+<a class="a_subject" href="/t-14355533-1" target="_blank">许愿TCOM 和 TWC 大修重投后能中！！！</a>
+
+<span style="color:gray;">(15/420)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=4973265">diandian_liu</a></cite>
+<span class="xmc_b9">
+2020-07-16</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 14:50:54</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=zhaoyubin" class="xmc_b9">zhaoyubin</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-43" title="论文写作" class="xmc_blue">论文写作</a>]</span> 
+<a class="a_subject" href="/t-10346769-1" target="_blank">写两篇相同方向的论文，introduction部分有重复是否可以呢</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-10346769-1">1</a> <a href="/t-10346769-2">2</a> <a href="/t-10346769-3">3</a> <a href="/t-10346769-4">4</a> <a href="/t-10346769-5">5</a> <a href="/t-10346769-6">6</a> )
+<span style="color:gray;">(55/3303)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1984193">nksunmoon</a></cite>
+<span class="xmc_b9">
+2016-05-25</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 14:42:30</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=wqshmzh" class="xmc_b9">wqshmzh</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-43" title="论文写作" class="xmc_blue">论文写作</a>]</span> 
+<a class="a_subject" href="/t-14422938-1" target="_blank">remote sensing</a>
+
+<span style="color:gray;">(3/87)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=23481164">海洋木虫儿</a></cite>
+<span class="xmc_b9">
+2020-09-06</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 14:35:46</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%BA%A3%D1%F3%C4%BE%B3%E6%B6%F9" class="xmc_b9">海洋木虫儿</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-824" title="交流" class="xmc_blue">交流</a>]</span> 
+<a class="a_subject" href="/t-14419700-1" target="_blank">请问大神这里的benchmarking methods指哪些方法？</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">136</font>
+
+<span style="color:gray;">(42/174)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=5072029">weian123456</a></cite>
+<span class="xmc_b9">
+2020-09-03</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 14:32:41</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=frankfh" class="xmc_b9">frankfh</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-824" title="交流" class="xmc_blue">交流</a>]</span> 
+<a class="a_subject" href="/t-14421966-1" target="_blank">爱思唯尔旗下FUEL投稿状态交流</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">2</font>
+
+<span style="color:gray;">(25/256)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=13711298">bingyuanti</a></cite>
+<span class="xmc_b9">
+2020-09-05</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 14:32:20</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=frankfh" class="xmc_b9">frankfh</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-824" title="交流" class="xmc_blue">交流</a>]</span> <span class="icon_vote xmc_rm10"></span>投票:&nbsp;
+
+<a class="a_subject" href="/t-6243878-1" target="_blank">初稿with editor后被编辑直接拒了一般在几天内呢？</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-6243878-1">1</a> <a href="/t-6243878-2">2</a> )<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">20</font>
+<font color="red"> (评阅+5)</font>
+
+<span style="color:gray;">(74/16957)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=535361">otj2008</a></cite>
+<span class="xmc_b9">
+2013-08-16</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 14:30:54</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=arlin%20lu" class="xmc_b9">arlin lu</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/app/redpackicon.png" align="absmiddle" title="红包">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> 
+<a class="a_subject" href="/t-14423238-1" target="_blank">WCSP2020</a>
+
+<span style="color:gray;">(20/148)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=6652294">落蕊蝉鸣</a></cite>
+<span class="xmc_b9">
+2020-09-06</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 14:28:45</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=lhc5203344" class="xmc_b9">lhc5203344</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/app/redpackicon.png" align="absmiddle" title="红包">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-47" title="其他" class="xmc_blue">其他</a>]</span> <font color="red">[热]</font>
+
+<a class="a_subject" href="/t-14421595-1" target="_blank">文章被Chemical Engineering Science接收，撒币</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-14421595-1">1</a> <a href="/t-14421595-2">2</a> <a href="/t-14421595-3">3</a> <a href="/t-14421595-4">4</a> <a href="/t-14421595-5">5</a> <a href="/t-14421595-6">6</a>  .. <a href="/t-14421595-8">8</a> )<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">134</font>
+
+<span style="color:gray;">(399/539)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=2314396">一头熊tianya</a></cite>
+<span class="xmc_b9">
+2020-09-04</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 14:24:25</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=zyic2018" class="xmc_b9">zyic2018</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-42" title="原创经验" class="xmc_blue">原创经验</a>]</span> 
+<a class="a_subject" href="/t-14422650-1" target="_blank">普通大学学报，非核心，不要版面费，有必要发么</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-14422650-1">1</a> <a href="/t-14422650-2">2</a> )
+<span style="color:gray;">(10/656)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=7946868">YJJ123456</a></cite>
+<span class="xmc_b9">
+2020-09-05</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 14:05:52</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=zt_geo" class="xmc_b9">zt_geo</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-824" title="交流" class="xmc_blue">交流</a>]</span> 
+<a class="a_subject" href="/t-12391213-1" target="_blank">engineering management journal投稿周期</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-12391213-1">1</a> <a href="/t-12391213-2">2</a> )
+<span style="color:gray;">(15/394)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=6840772">sharonh</a></cite>
+<span class="xmc_b9">
+2018-06-06</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 14:02:03</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=hesu_1111" class="xmc_b9">hesu_1111</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-42" title="原创经验" class="xmc_blue">原创经验</a>]</span> 
+<a class="a_subject" href="/t-14422649-1" target="_blank">普通大学学报，非核心，不要版面费，有必要发么</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-14422649-1">1</a> <a href="/t-14422649-2">2</a> )
+<span style="color:gray;">(10/558)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=7946868">YJJ123456</a></cite>
+<span class="xmc_b9">
+2020-09-05</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 12:29:06</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%C9%F0%CA%BFsch" class="xmc_b9">绅士sch</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/app/redpackicon.png" align="absmiddle" title="红包">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> 
+<a class="a_subject" href="/t-14423004-1" target="_blank">关于期刊materials today energy，麻烦各位大佬进来看看</a>
+
+<span style="color:gray;">(22/156)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=7039637">狂野男孩</a></cite>
+<span class="xmc_b9">
+2020-09-06</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 12:23:33</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%BF%F1%D2%B0%C4%D0%BA%A2" class="xmc_b9">狂野男孩</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/app/redpackicon.png" align="absmiddle" title="红包">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> <font color="red">[热]</font>
+
+<a class="a_subject" href="/t-14423033-1" target="_blank">Analytical Letters投稿</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-14423033-1">1</a> <a href="/t-14423033-2">2</a> )
+<span style="color:gray;">(73/181)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=13021806">风之殇k</a></cite>
+<span class="xmc_b9">
+2020-09-06</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 12:07:59</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%B7%E7%D6%AE%E9%E4k" class="xmc_b9">风之殇k</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/app/redpackicon.png" align="absmiddle" title="红包">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-824" title="交流" class="xmc_blue">交流</a>]</span> 
+<a class="a_subject" href="/t-14421685-1" target="_blank">博导回复</a>
+
+<span style="color:gray;">(22/554)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=10292460">Promising%</a></cite>
+<span class="xmc_b9">
+2020-09-04</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 12:01:08</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=KKlxy1986" class="xmc_b9">KKlxy1986</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/app/redpackicon.png" align="absmiddle" title="红包">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> 
+<a class="a_subject" href="/t-14404844-1" target="_blank">with editor快一个月了</a>
+
+<span style="color:gray;">(32/315)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=21620065">a739698299</a></cite>
+<span class="xmc_b9">
+2020-08-22</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 12:00:51</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=kyxioabai" class="xmc_b9">kyxioabai</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> 
+<a class="a_subject" href="/t-14422206-1" target="_blank">核心期刊一稿多投，被发现会怎么样？</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-14422206-1">1</a> <a href="/t-14422206-2">2</a> )
+<span style="color:gray;">(10/1154)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=21746726">刀剑武士</a></cite>
+<span class="xmc_b9">
+2020-09-05</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 11:58:11</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=lovebabyjing" class="xmc_b9">lovebabyjing</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> 
+<a class="a_subject" href="/t-14412479-1" target="_blank">投sci，第一次，不熟悉</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-14412479-1">1</a> <a href="/t-14412479-2">2</a> )<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">5</font>
+
+<span style="color:gray;">(11/841)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=23419519">牛牛平方</a></cite>
+<span class="xmc_b9">
+2020-08-28</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 11:58:10</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%B9%FA%BC%CA%BF%C6%D1%A7%B1%E0%BC%AD" class="xmc_b9">国际科学编辑</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-43" title="论文写作" class="xmc_blue">论文写作</a>]</span> 
+<a class="a_subject" href="/t-14422429-1" target="_blank">中国环境科学投稿</a>
+
+<span style="color:gray;">(3/192)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=5148235">想留学的girl</a></cite>
+<span class="xmc_b9">
+2020-09-05</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 11:52:30</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=KKlxy1986" class="xmc_b9">KKlxy1986</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> 
+<a class="a_subject" href="/t-14371740-1" target="_blank">pest management science</a>
+
+<span style="color:gray;">(16/206)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=9407426">云不知道的事</a></cite>
+<span class="xmc_b9">
+2020-07-27</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 11:48:43</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%B9%FA%BC%CA%BF%C6%D1%A7%B1%E0%BC%AD" class="xmc_b9">国际科学编辑</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-43" title="论文写作" class="xmc_blue">论文写作</a>]</span> 
+<a class="a_subject" href="/t-14423070-1" target="_blank">响应曲面回归模型</a>
+
+<span style="color:gray;">(5/91)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=22320839">young_1234</a></cite>
+<span class="xmc_b9">
+2020-09-06</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 11:47:16</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=luokereng" class="xmc_b9">luokereng</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-824" title="交流" class="xmc_blue">交流</a>]</span> <span class="icon_vote xmc_rm10"></span>投票:&nbsp;
+
+<a class="a_subject" href="/t-5969573-1" target="_blank">小修大家一般几天接收</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-5969573-1">1</a> <a href="/t-5969573-2">2</a> <a href="/t-5969573-3">3</a> <a href="/t-5969573-4">4</a> <a href="/t-5969573-5">5</a> <a href="/t-5969573-6">6</a>  .. <a href="/t-5969573-10">10</a> )<font color="red"> (评阅+3)</font>
+
+<span style="color:gray;">(94/17958)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1255190">别动我有枪</a></cite>
+<span class="xmc_b9">
+2013-06-03</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 11:22:48</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%B2%BB%B8%D0%C3%B0jack" class="xmc_b9">不感冒jack</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/app/redpackicon.png" align="absmiddle" title="红包">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-824" title="交流" class="xmc_blue">交流</a>]</span> 
+<a class="a_subject" href="/t-14231244-1" target="_blank">大修返回了，祈祷能录用！</a>
+
+<span style="color:gray;">(49/511)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=17486025">猫熊小熊猫</a></cite>
+<span class="xmc_b9">
+2020-05-03</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 11:01:54</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%D1%EE%D3%F1%B0%A1" class="xmc_b9">杨玉啊</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> 
+<a class="a_subject" href="/t-14422675-1" target="_blank">IEEE TIM二审回来</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">100</font>
+
+<span style="color:gray;">(8/274)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=2050623">myq_1987</a></cite>
+<span class="xmc_b9">
+2020-09-05</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 10:39:09</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=xiaohuixin" class="xmc_b9">xiaohuixin</a> </span>
+
+</th>
+</tr>
+</tbody>
+                                                                                                                                                                                                                                                                                                                                <tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> <font color="red">[热]</font>
+
+<a class="a_subject" href="/t-14422529-1" style="color: red" target="_blank">求指点。</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">15</font>
+
+<span style="color:gray;">(8/400)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=12900418">栋0000</a></cite>
+<span class="xmc_b9">
+2020-09-05</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 09:46:01</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%B6%B00000" class="xmc_b9">栋0000</a> </span>
+
+</th>
+</tr>
+</tbody>
+                    <tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-43" title="论文写作" class="xmc_blue">论文写作</a>]</span> <font color="red">[热]</font>
+
+<a class="a_subject" href="/t-14422508-1" style="color: red" target="_blank">投稿求助</a>
+
+<span style="color:gray;">(7/350)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=15381826">Huwei123456</a></cite>
+<span class="xmc_b9">
+2020-09-05</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-05 21:24:00</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%CA%C5%CB%AE%CE%DE%BA%DB1990" class="xmc_b9">逝水无痕1990</a> </span>
+
+</th>
+</tr>
+</tbody>
+                    <tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> <font color="red">[热]</font>
+
+<a class="a_subject" href="/t-14422339-1" style="color: red" target="_blank"><font color=purple>[已完结]</font>急求 journal of materials chemistry B的投稿须知！</a>
+
+<span style="color:gray;">(3/150)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=4499630">balabala珍</a></cite>
+<span class="xmc_b9">
+2020-09-05</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-05 16:26:38</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=balabala%D5%E4" class="xmc_b9">balabala珍</a> </span>
+
+</th>
+</tr>
+</tbody>
+                    <tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> <font color="red">[热]</font>
+
+<a class="a_subject" href="/t-14422329-1" style="color: red" target="_blank">求燃料电池四区水刊</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">50</font>
+
+<span style="color:gray;">(4/200)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=14390942">vnavxpozi</a></cite>
+<span class="xmc_b9">
+2020-09-05</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 00:49:18</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=bobvan" class="xmc_b9">bobvan</a> </span>
+
+</th>
+</tr>
+</tbody>
+                    <tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> <font color="red">[热]</font>
+
+<a class="a_subject" href="/t-14422237-1" style="color: red" target="_blank">一审投回16天后Required Reviews Completed</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">20</font>
+
+<span style="color:gray;">(8/400)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=15848641">阆苑小太阳</a></cite>
+<span class="xmc_b9">
+2020-09-05</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 08:44:12</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%B3%E6%B2%B71988" class="xmc_b9">虫卜1988</a> </span>
+
+</th>
+</tr>
+</tbody>
+                                        <tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> <font color="red">[热]</font>
+
+<a class="a_subject" href="/t-14422091-1" style="color: red" target="_blank">编辑部这么迅速？</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-14422091-1">1</a> <a href="/t-14422091-2">2</a> )<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">1</font>
+
+<span style="color:gray;">(11/550)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=23404600">Flsslz.</a></cite>
+<span class="xmc_b9">
+2020-09-05</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-05 15:15:31</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=vycanis" class="xmc_b9">vycanis</a> </span>
+
+</th>
+</tr>
+</tbody>
+                    <tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> <font color="red">[热]</font>
+
+<a class="a_subject" href="/t-14422085-1" style="color: red" target="_blank">文章被拒后能否重投这个杂志？</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">20</font>
+
+<span style="color:gray;">(7/350)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=5534921">yangl9</a></cite>
+<span class="xmc_b9">
+2020-09-05</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-05 14:58:02</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%D0%A6%BE%CD%D2%AA%B8%F6%D0%D4" class="xmc_b9">笑就要个性</a> </span>
+
+</th>
+</tr>
+</tbody>
+                    <tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> <font color="red">[热]</font>
+
+<a class="a_subject" href="/t-14422083-1" style="color: red" target="_blank">acs编辑要求转投，要同意吗</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-14422083-1">1</a> <a href="/t-14422083-2">2</a> )
+<span style="color:gray;">(12/600)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=2282827">王思皓</a></cite>
+<span class="xmc_b9">
+2020-09-05</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-05 14:21:41</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=bjxmqp" class="xmc_b9">bjxmqp</a> </span>
+
+</th>
+</tr>
+</tbody>
+                                        <tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> <font color="red">[热]</font>
+
+<a class="a_subject" href="/t-14422010-1" style="color: red" target="_blank">JGR-Oceans大修后二审：with editor for decision已10天</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">5</font>
+
+<span style="color:gray;">(4/200)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=2215111">iwaking</a></cite>
+<span class="xmc_b9">
+2020-09-05</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 08:30:02</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%B3%E6%B2%B71988" class="xmc_b9">虫卜1988</a> </span>
+
+</th>
+</tr>
+</tbody>
+                    <tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> <font color="red">[热]</font>
+
+<a class="a_subject" href="/t-14421855-1" style="color: red" target="_blank">研究报告算不算sci论文</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">8</font>
+
+<span style="color:gray;">(7/350)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=6403928">18241268845</a></cite>
+<span class="xmc_b9">
+2020-09-05</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 01:01:16</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=bobvan" class="xmc_b9">bobvan</a> </span>
+
+</th>
+</tr>
+</tbody>
+                    <tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> <font color="red">[热]</font>
+
+<a class="a_subject" href="/t-14421665-1" style="color: red" target="_blank">ENERGY EXPLORATION &amp;amp;amp; EXPLOITATION有人投过吗</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">100</font>
+
+<span style="color:gray;">(5/250)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=7919721">whto821</a></cite>
+<span class="xmc_b9">
+2020-09-04</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-05 08:30:38</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=chenhuanlong" class="xmc_b9">chenhuanlong</a> </span>
+
+</th>
+</tr>
+</tbody>
+                                        <tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-43" title="论文写作" class="xmc_blue">论文写作</a>]</span> <font color="red">[热]</font>
+
+<a class="a_subject" href="/t-14421585-1" style="color: red" target="_blank">我感觉编辑都要喷我了！！！</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-14421585-1">1</a> <a href="/t-14421585-2">2</a> <a href="/t-14421585-3">3</a> <a href="/t-14421585-4">4</a> )
+<span style="color:gray;">(36/1800)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=5934599">城口的木匠</a></cite>
+<span class="xmc_b9">
+2020-09-04</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-05 22:27:02</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=w%CE%AF%D4%B1" class="xmc_b9">w委员</a> </span>
+
+</th>
+</tr>
+</tbody>
+                    <tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-43" title="论文写作" class="xmc_blue">论文写作</a>]</span> <font color="red">[热]</font>
+
+<a class="a_subject" href="/t-14421429-1" style="color: red" target="_blank">审稿人说我论文太长了</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">40</font>
+
+<span style="color:gray;">(9/450)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=3580432">dannyshin</a></cite>
+<span class="xmc_b9">
+2020-09-04</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-05 08:06:15</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=Chitty_Lee" class="xmc_b9">Chitty_Lee</a> </span>
+
+</th>
+</tr>
+</tbody>
+                    <tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> <font color="red">[热]</font>
+
+<a class="a_subject" href="/t-14421367-1" style="color: red" target="_blank">编辑给的小修意见，想重写某部分对图片的描述内容，不知道会不会导致被拒稿？</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">6</font>
+
+<span style="color:gray;">(6/300)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=3242947">异度fluid</a></cite>
+<span class="xmc_b9">
+2020-09-04</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-05 09:36:31</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%B3%E6%B2%B71988" class="xmc_b9">虫卜1988</a> </span>
+
+</th>
+</tr>
+</tbody>
+                    <tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> <font color="red">[热]</font>
+
+<a class="a_subject" href="/t-14421331-1" style="color: red" target="_blank">Mdpi大修二审半个月啥情况呀。。？</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-14421331-1">1</a> <a href="/t-14421331-2">2</a> )<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">10</font>
+
+<span style="color:gray;">(10/500)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=5859558">Cocouu</a></cite>
+<span class="xmc_b9">
+2020-09-04</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-05 19:36:32</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=lyf1850" class="xmc_b9">lyf1850</a> </span>
+
+</th>
+</tr>
+</tbody>
+                                                            <tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> <font color="red">[热]</font>
+
+<a class="a_subject" href="/t-14421125-1" style="color: red" target="_blank">检索证明</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">5</font>
+
+<span style="color:gray;">(9/450)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=17496241">Vscoppqq</a></cite>
+<span class="xmc_b9">
+2020-09-04</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 10:02:37</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%EE%A7%CB%AF%B3%E6%C5%B6" class="xmc_b9">瞌睡虫哦</a> </span>
+
+</th>
+</tr>
+</tbody>
+                    <tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> <font color="red">[热]</font>
+
+<a class="a_subject" href="/t-14421076-1" style="color: red" target="_blank">关于期刊的选择，太纠结了，希望各位路过的虫友给我支支招！</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">10</font>
+
+<span style="color:gray;">(9/450)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=3968732">回首间</a></cite>
+<span class="xmc_b9">
+2020-09-04</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 00:44:39</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=bobvan" class="xmc_b9">bobvan</a> </span>
+
+</th>
+</tr>
+</tbody>
+                    <tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> <font color="red">[热]</font>
+
+<a class="a_subject" href="/t-14421013-1" style="color: red" target="_blank">编辑给了个大修，像这种审稿意见，录用几率大不大。</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-14421013-1">1</a> <a href="/t-14421013-2">2</a> )
+<span style="color:gray;">(11/550)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=5991246">手心里的海</a></cite>
+<span class="xmc_b9">
+2020-09-04</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-05 18:55:16</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%CA%D6%D0%C4%C0%EF%B5%C4%BA%A3" class="xmc_b9">手心里的海</a> </span>
+
+</th>
+</tr>
+</tbody>
+                    <tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> <font color="red">[热]</font>
+
+<a class="a_subject" href="/t-14421009-1" style="color: red" target="_blank">《腐蚀与防护》投稿求助</a>
+
+<span style="color:gray;">(6/300)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=7527263">心向明月</a></cite>
+<span class="xmc_b9">
+2020-09-04</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-05 09:08:48</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%D0%C4%CF%F2%C3%F7%D4%C2" class="xmc_b9">心向明月</a> </span>
+
+</th>
+</tr>
+</tbody>
+                    <tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> <font color="red">[热]</font>
+
+<a class="a_subject" href="/t-14420800-1" style="color: red" target="_blank">投稿被拒多次，希望下次投稿顺利！</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-14420800-1">1</a> <a href="/t-14420800-2">2</a> )
+<span style="color:gray;">(19/950)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=19388936">灵犀小科斗</a></cite>
+<span class="xmc_b9">
+2020-09-04</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-05 18:53:39</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%B0%AE%D1%C7%B5%C4%D0%C9%D0%C9" class="xmc_b9">爱亚的猩猩</a> </span>
+
+</th>
+</tr>
+</tbody>
+                    <tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-824" title="交流" class="xmc_blue">交流</a>]</span> <font color="red">[热]</font>
+
+<a class="a_subject" href="/t-14420630-1" style="color: red" target="_blank">问一个SCI收录的问题</a>
+
+<span style="color:gray;">(9/450)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1150861">小橙小毅</a></cite>
+<span class="xmc_b9">
+2020-09-04</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-04 12:29:37</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%C1%EC%B5%BCSDI" class="xmc_b9">领导SDI</a> </span>
+
+</th>
+</tr>
+</tbody>
+                    <tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> <font color="red">[热]</font>
+
+<a class="a_subject" href="/t-14420364-1" style="color: red" target="_blank">我想问问我投的文章快三个月了，还在编辑手里</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-14420364-1">1</a> <a href="/t-14420364-2">2</a> )
+<span style="color:gray;">(11/550)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=23236171">无业小牙医</a></cite>
+<span class="xmc_b9">
+2020-09-04</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-04 14:35:15</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=msxpony2012" class="xmc_b9">msxpony2012</a> </span>
+
+</th>
+</tr>
+</tbody>
+                    <tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> <font color="red">[热]</font>
+
+<a class="a_subject" href="/t-14420287-1" style="color: red" target="_blank">ASME下的Mechanical design 投稿时遇到问题</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">30</font>
+
+<span style="color:gray;">(5/250)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=8665094">阳光依旧绚烂</a></cite>
+<span class="xmc_b9">
+2020-09-03</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-05 21:23:46</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%D1%F4%B9%E2%D2%C0%BE%C9%D1%A4%C0%C3" class="xmc_b9">阳光依旧绚烂</a> </span>
+
+</th>
+</tr>
+</tbody>
+                    <tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> <font color="red">[热]</font>
+
+<a class="a_subject" href="/t-14420271-1" style="color: red" target="_blank">退修</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">8</font>
+
+<span style="color:gray;">(6/300)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=19797312">akou1995</a></cite>
+<span class="xmc_b9">
+2020-09-03</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-04 12:12:19</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=bobvan" class="xmc_b9">bobvan</a> </span>
+
+</th>
+</tr>
+</tbody>
+                    <tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> <font color="red">[热]</font>
+
+<a class="a_subject" href="/t-14420203-1" style="color: red" target="_blank">Manuscript under consideration都20多天了什么鬼？</a>
+
+<span style="color:gray;">(7/350)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=7840741">liuxian111</a></cite>
+<span class="xmc_b9">
+2020-09-03</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-04 10:31:43</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=liuxian111" class="xmc_b9">liuxian111</a> </span>
+
+</th>
+</tr>
+</tbody>
+                    <tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> <font color="red">[热]</font>
+
+<a class="a_subject" href="/t-14420200-1" style="color: red" target="_blank">双非博士发文章难吗？</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-14420200-1">1</a> <a href="/t-14420200-2">2</a> )
+<span style="color:gray;">(11/550)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=22705325">BAIMA飞马</a></cite>
+<span class="xmc_b9">
+2020-09-03</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-04 17:15:53</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%BC%D6%88%F2" class="xmc_b9">贾堯</a> </span>
+
+</th>
+</tr>
+</tbody>
+                                        <tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> <font color="red">[热]</font>
+
+<a class="a_subject" href="/t-14420116-1" style="color: red" target="_blank">Under review 时间一直在变，50天变了3次了</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">17</font>
+
+<span style="color:gray;">(5/250)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=4514209">亓鹏</a></cite>
+<span class="xmc_b9">
+2020-09-03</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-04 12:10:41</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=bobvan" class="xmc_b9">bobvan</a> </span>
+
+</th>
+</tr>
+</tbody>
+                    <tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> <font color="red">[热]</font>
+
+<a class="a_subject" href="/t-14420085-1" style="color: red" target="_blank">materials chemistry frontiers投稿，Checking submission and files3次了都没有通过</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">10</font>
+
+<span style="color:gray;">(7/350)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=3818874">wu1309122143</a></cite>
+<span class="xmc_b9">
+2020-09-03</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-04 22:26:25</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=songcumt" class="xmc_b9">songcumt</a> </span>
+
+</th>
+</tr>
+</tbody>
+                    <tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> <font color="red">[热]</font>
+
+<a class="a_subject" href="/t-14419976-1" style="color: red" target="_blank">MDPI的Revised version review一般多久呀</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-14419976-1">1</a> <a href="/t-14419976-2">2</a> )<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">333</font>
+
+<span style="color:gray;">(14/700)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=2133598">叶落秋融</a></cite>
+<span class="xmc_b9">
+2020-09-03</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-04 23:45:22</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=zt_geo" class="xmc_b9">zt_geo</a> </span>
+
+</th>
+</tr>
+</tbody>
+                                                            <tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-824" title="交流" class="xmc_blue">交流</a>]</span> <font color="red">[热]</font>
+
+<a class="a_subject" href="/t-14419506-1" style="color: red" target="_blank">论文投稿问题交流</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-14419506-1">1</a> <a href="/t-14419506-2">2</a> )<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">11</font>
+
+<span style="color:gray;">(14/700)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=14371396">ba5524600</a></cite>
+<span class="xmc_b9">
+2020-09-03</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-03 15:19:15</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=ba5524600" class="xmc_b9">ba5524600</a> </span>
+
+</th>
+</tr>
+</tbody>
+                    <tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> <font color="red">[热]</font>
+
+<a class="a_subject" href="/t-14419469-1" style="color: red" target="_blank"><font color=purple>[已完结]</font>materials letters投稿格式要求</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-14419469-1">1</a> <a href="/t-14419469-2">2</a> )
+<span style="color:gray;">(10/500)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1260476">tjuwangqian</a></cite>
+<span class="xmc_b9">
+2020-09-03</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-04 09:05:20</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=cqupenghao" class="xmc_b9">cqupenghao</a> </span>
+
+</th>
+</tr>
+</tbody>
+                    <tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-824" title="交流" class="xmc_blue">交流</a>]</span> <font color="red">[热]</font>
+
+<a class="a_subject" href="/t-14419308-1" style="color: red" target="_blank">scholar one 系统下投稿约1个月，状态一直是under review</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-14419308-1">1</a> <a href="/t-14419308-2">2</a> )<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">20</font>
+
+<span style="color:gray;">(13/650)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=3512789">猪小耍</a></cite>
+<span class="xmc_b9">
+2020-09-03</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-03 14:17:09</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=happy617" class="xmc_b9">happy617</a> </span>
+
+</th>
+</tr>
+</tbody>
+                    <tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-824" title="交流" class="xmc_blue">交流</a>]</span> <font color="red">[热]</font>
+
+<a class="a_subject" href="/t-14419152-1" style="color: red" target="_blank">各位老师，同学，SCI论文投稿前，大家会先查重吗，如果是，麻烦推荐查重的机构，谢谢</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-14419152-1">1</a> <a href="/t-14419152-2">2</a> )<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">32</font>
+
+<span style="color:gray;">(14/700)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=3594048">锦衣卫寒战</a></cite>
+<span class="xmc_b9">
+2020-09-03</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-04 10:13:17</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=283470905" class="xmc_b9">283470905</a> </span>
+
+</th>
+</tr>
+</tbody>
+                    <tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> <font color="red">[热]</font>
+
+<a class="a_subject" href="/t-14419143-1" style="color: red" target="_blank">mdpi交费晚交几天碍事吗？</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">5</font>
+
+<span style="color:gray;">(6/300)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=23152185">zqs0033</a></cite>
+<span class="xmc_b9">
+2020-09-03</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-03 23:35:22</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=DavidSalem" class="xmc_b9">DavidSalem</a> </span>
+
+</th>
+</tr>
+</tbody>
+                    <tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-824" title="交流" class="xmc_blue">交流</a>]</span> <font color="red">[热]</font>
+
+<a class="a_subject" href="/t-14418925-1" style="color: red" target="_blank">SCI投稿收到160多条审稿意见，奔溃了</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-14418925-1">1</a> <a href="/t-14418925-2">2</a> <a href="/t-14418925-3">3</a> <a href="/t-14418925-4">4</a> <a href="/t-14418925-5">5</a> <a href="/t-14418925-6">6</a>  .. <a href="/t-14418925-7">7</a> )
+<span style="color:gray;">(60/3000)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=3622920">沙漠之狐9230</a></cite>
+<span class="xmc_b9">
+2020-09-03</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-04 22:43:17</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%C9%B3%C4%AE%D6%AE%BA%FC9230" class="xmc_b9">沙漠之狐9230</a> </span>
+
+</th>
+</tr>
+</tbody>
+                    <tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> <font color="red">[热]</font>
+
+<a class="a_subject" href="/t-14418918-1" style="color: red" target="_blank">acs投稿后没收到邮件</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-14418918-1">1</a> <a href="/t-14418918-2">2</a> )
+<span style="color:gray;">(14/700)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=2282827">王思皓</a></cite>
+<span class="xmc_b9">
+2020-09-03</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-03 10:42:21</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%CD%F5%CB%BC%F0%A9" class="xmc_b9">王思皓</a> </span>
+
+</th>
+</tr>
+</tbody>
+                    <tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-125-1-typeid-45" title="投稿求助" class="xmc_blue">投稿求助</a>]</span> <font color="red">[热]</font>
+
+<a class="a_subject" href="/t-14418905-1" style="color: red" target="_blank">field crops research投稿</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">15</font>
+
+<span style="color:gray;">(5/250)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=4517775">wsjd</a></cite>
+<span class="xmc_b9">
+2020-09-03</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-03 23:41:18</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=DavidSalem" class="xmc_b9">DavidSalem</a> </span>
+
+</th>
+</tr>
+</tbody>
+    </table>
+</div>
+
+
+</form>
+</div>
+
+<div class="wrapper">
+<div class="hr_10"></div>
+<div class="solid">
+<div class="xmc_fr xmc_Pages">
+<table class="multi" cellspacing="1" cellpadding="6" style=""><tr bgcolor="#E4EAF2" class="smalltxt"><td class="header">284531</td><td class="header">1/2846</td><td><u><b>1</b></u></td><td><a href="http://muchong.com/f-125-2">2</a></td><td><a href="http://muchong.com/f-125-3">3</a></td><td><a href="http://muchong.com/f-125-4">4</a></td><td><a href="http://muchong.com/f-125-5">5</a></td><td><a href="http://muchong.com/f-125-6">6</a></td><td><a href="http://muchong.com/f-125-2">下一页</a></td></tr></table></div>
+</div>
+
+<div class="hr_10"></div>
+<div class="forum_opera xmc_brt2 solid">
+    	<span class="xmc_fr">
+        	相关版块跳转
+            <select name="jumpfid"  class="forumdisply" onchange="location.href='/f-'+this.value+'-1'" >
+<option value="125" selected><font color=red>论文投稿</font></option>
+<option value="360">SCI期刊点评</option>
+<option value="431">中文期刊点评</option>
+<option value="307"><font color=red>论文道贺祈福</font></option>
+<option value="278">论文翻译</option>
+<option value="234"><font color=green>基金申请</font></option>
+<option value="299">学术会议</option>
+<option value="345"><font color=red>会议与征稿布告栏</font></option>
+</select>
+        </span>
+<form method="post" action="forumdisplay.php?fid=125&type=&threadtype=0&displayorder=">
+<input type="hidden" name="formhash" value="5f41f52e">
+        <span>
+        	<div class="xmc_fl">查看
+            <select name="order" class="vieworder">
+<option value="lastpost">最后发表</option>
+<option value="tid">发贴时间</option>
+</select>
+            <select name="ascdesc" class="vieworder">
+<option value="DESC">按降序排列</option>
+<option value="ASC">按升序排列</option>
+</select>
+</div>
+<div class="xmc_fl xmc_lm5">
+            <input type="submit" value="提交" class="reg_button3">
+</div>
+        </span>
+</form>
+</div>
+</div>
+
+
+<script type="text/javascript">
+jQuery(function() {
+jQuery('.forumdisply').sSelect();
+jQuery('.vieworder').sSelect();
+
+});
+</script>
+
+<div class="hr_10"></div>
+<footer style="background: #fff;">
+<div class="footer_icp"></div>
+<iframe id="ajaxframe" name="ajaxframe" frameborder="0" scrolling="no" src="about:blank;" width="0" height="0" charset="gbk" style="height: 0px; line-height: 1px;"></iframe>
+<div class="wrapper">
+<div class="padding:20px;">
+<table  cellspacing="5" cellpadding="5" align="center">
+<tr><td align="center"><a href="http://muchong.com/bbs/a234.html" class="" target="_blank" style='display: inherit!important;'><img src="http://muchongimg.xmcimg.com/oss2/img/2019/1112/1_1573551898_544.gif" align="absmiddle" width="760" height="90"></a></td></tr>
+<tr><td align="center"></td></tr>
+<tr><td align="center"></td></tr>
+<tr><td align="center" height="60">
+<p>
+<strong style="font-size:24px;"><u><a href="http://muchong.com/bbs/a2488.html" class="" target="_blank" style='display: inherit!important;'>来这里，找考研直系学长！</a></u></strong>
+</p>
+</td></tr>
+</table>
+</div>
+</div>
+<div class="hr_20"></div>
+
+
+
+<div style="text-align:center;margin:0 auto;margin:0 auto;">
+<a name="#bottom"></a>
+<table align="center">
+<tr>
+<td align="center" style="padding-left:20px;">
+
+<div style="line-height:1.5;">
+<a href="http://mob.muchong.com/bbs/index.php?pc=no" class="mediumtxt" rel="nofollow"><u>切换到手机版</u></a> -
+<a href="http://muchong.com/t-11622561-1" class="mediumtxt" rel="nofollow" target="_blank"><u>清除COOKIES</u></a> -
+<a href="supporter.php?view=ad" class="mediumtxt" rel="nofollow"><u>广告投放说明</u></a> -
+<a href="post.php?action=newthread&fid=321" class="mediumtxt" rel="nofollow"><u>给我们提意见</u></a> -
+<a href="http://m.muchong.com/?f=bbs&w=footer_text" target="_blank"><u>手机客户端</u></a> -
+<a href="supporter.php" target="_blank"><u>捐助小木虫</u></a> -
+<a href="http://src.100tal.com/?_f=muchong" target="_blank" rel="nofollow"><u>漏洞提交</u></a>
+<br>
+小木虫,学术科研互动社区,为中国学术科研免费提供动力<br>
+违规、侵权举报等事项，请邮件联系emuch2018@163.com 处理<br>
+广告投放与宣传请联系 <u>李想</u> QQ：<a href='http://wpa.qq.com/msgrd?v=3&uin=64901448&site=qq&menu=yes'><u>64901448</u></a>
+QQ：<a href='http://wpa.qq.com/msgrd?v=3&uin=2829862428&site=qq&menu=yes'><u>2829862428</u></a>&nbsp;&nbsp;邮箱：<u>64901448@qq.com</u><br>
+
+<div style="color:gray;">Copyright &copy; 2001-2020 MuChong.com, All Rights Reserved. 小木虫 版权所有
+</div>
+<div>
+<a href="http://www.miitbeian.gov.cn/" target="_blank" rel="nofollow">京ICP备09032638号-13</a>
+<a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802022153" rel="nofollow"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/logo/jgwab.jpg" align="absmiddle"/>京公网安备 11010802022153号</a>
+
+</div>
+<br/>
+<table>
+<tr>
+<td style="padding-right: 15px; border-right: 1px solid #cccccc"><a target="_blank" href="http://m.muchong.com/?f=bbs&w=footer_v" rel="nofollow"><img height="100" src="http://muchongimg.xmcimg.com/data/bcs/2017/0226/1_1488123568_827.png"></a>
+</td>
+<td style="padding-left: 15px;">
+<a key="5704b2daefbfb0745c47297e" logo_size="124x47" logo_type="business"
+   href="http://www.anquan.org">
+<script src="http://static.anquan.org/static/outer/js/aq_auth.js"></script>
+</a>
+</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+<br></div>
+<div id="goTopBtn" style="display:none;"></div>
+<script type="text/javascript">goTopEx();</script>
+</footer>
+<script src="http://push.zhanzhang.baidu.com/push.js" ></script><script>
+
+;(function(){
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','http://muchongimg.xmcimg.com/data/emuch_bbs_images/js/qing/js/analytics.js?15373250','ga');
+var f = emuch.getQueryString('f');
+if(f !== null ) {
+var w = emuch.getQueryString('w');
+ga('outside', 'event', 'web', f,w);
+}
+ga('create', 'UA-1947017-8', 'auto');
+if(typeof XMC_GKEY != "undefined" && XMC_GKEY){
+ga('set', 'title', XMC_GKEY);
+}
+ga('send', 'pageview');
+if(typeof GA_TYPE != "undefined" && typeof GA_TYPE_NAME  != "undefined" ) {
+ga('send', 'event', GA_TYPE_NAME, GA_TYPE, "0");
+}
+var _hmt = _hmt || [];
+(function() {
+var hm = document.createElement("script");
+hm.src = "https://hm.baidu.com/hm.js?2207ecfb7b2633a3bc5c4968feb58569";
+var s = document.getElementsByTagName("script")[0];
+s.parentNode.insertBefore(hm, s);
+})();
+})();
+</script>
+
+</body>
+</html>
